@@ -1,0 +1,15 @@
+09-Jul-24 22:40:59 - Epoch [0/100] Batch 0/1583 Loss D: 0.6932, loss G: 0.7032
+09-Jul-24 22:43:31 - Epoch [0/100] Batch 100/1583 Loss D: 0.0002, loss G: 9.0939
+09-Jul-24 22:46:02 - Epoch [0/100] Batch 200/1583 Loss D: 0.0001, loss G: 9.3376
+09-Jul-24 22:48:33 - Epoch [0/100] Batch 300/1583 Loss D: 0.0000, loss G: 10.1957
+09-Jul-24 22:50:55 - Epoch [0/100] Batch 400/1583 Loss D: 0.0000, loss G: 11.3613
+09-Jul-24 22:53:22 - Epoch [0/100] Batch 500/1583 Loss D: 0.0000, loss G: 11.7088
+09-Jul-24 22:55:51 - Epoch [0/100] Batch 600/1583 Loss D: 0.0000, loss G: 12.2345
+09-Jul-24 22:58:26 - Epoch [0/100] Batch 700/1583 Loss D: 0.0000, loss G: 12.5135
+09-Jul-24 23:00:57 - Epoch [0/100] Batch 800/1583 Loss D: 0.0000, loss G: 12.7962
+09-Jul-24 23:03:27 - Epoch [0/100] Batch 900/1583 Loss D: 0.0000, loss G: 13.0722
+09-Jul-24 23:05:59 - Epoch [0/100] Batch 1000/1583 Loss D: 0.0000, loss G: 13.3009
+09-Jul-24 23:08:27 - Epoch [0/100] Batch 1100/1583 Loss D: 0.0000, loss G: 13.4911
+09-Jul-24 23:11:00 - Epoch [0/100] Batch 1200/1583 Loss D: 0.0000, loss G: 13.6639
+09-Jul-24 23:13:28 - Epoch [0/100] Batch 1300/1583 Loss D: 0.0000, loss G: 13.8208
+09-Jul-24 23:16:02 - Epoch [0/100] Batch 1400/1583 Loss D: 0.0000, loss G: 13.9541

@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "gan_basic.py", line 11, in <module>
+    for epoch in tqdm(range(num_epochs), desc="Epochs"):
+NameError: name 'num_epochs' is not defined

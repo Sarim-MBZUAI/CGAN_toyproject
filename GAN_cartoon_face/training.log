@@ -1,0 +1,900 @@
+10-Jul-24 00:07:06 - Epoch [1/100] Batch 0/782 Loss D: 0.6868, loss G: 0.7225
+10-Jul-24 00:07:49 - Epoch [1/100] Batch 100/782 Loss D: 0.5483, loss G: 1.6325
+10-Jul-24 00:08:38 - Epoch [1/100] Batch 200/782 Loss D: 0.5517, loss G: 1.2415
+10-Jul-24 00:09:17 - Epoch [1/100] Batch 300/782 Loss D: 0.5907, loss G: 1.0571
+10-Jul-24 00:10:01 - Epoch [1/100] Batch 400/782 Loss D: 0.5478, loss G: 1.9569
+10-Jul-24 00:10:36 - Epoch [1/100] Batch 500/782 Loss D: 0.6408, loss G: 2.8800
+10-Jul-24 00:11:20 - Epoch [1/100] Batch 600/782 Loss D: 0.5748, loss G: 1.2343
+10-Jul-24 00:12:05 - Epoch [1/100] Batch 700/782 Loss D: 0.5103, loss G: 3.0460
+10-Jul-24 00:12:40 - Epoch 1 completed. Images saved.
+10-Jul-24 00:12:41 - Epoch [2/100] Batch 0/782 Loss D: 0.3445, loss G: 1.9352
+10-Jul-24 00:13:07 - Epoch [2/100] Batch 100/782 Loss D: 0.4211, loss G: 1.4368
+10-Jul-24 00:13:29 - Epoch [2/100] Batch 200/782 Loss D: 0.3919, loss G: 1.5887
+10-Jul-24 00:13:55 - Epoch [2/100] Batch 300/782 Loss D: 0.6444, loss G: 3.4105
+10-Jul-24 00:14:22 - Epoch [2/100] Batch 400/782 Loss D: 0.3032, loss G: 2.8353
+10-Jul-24 00:14:53 - Epoch [2/100] Batch 500/782 Loss D: 0.4818, loss G: 1.4055
+10-Jul-24 00:15:21 - Epoch [2/100] Batch 600/782 Loss D: 0.4827, loss G: 1.2742
+10-Jul-24 00:15:53 - Epoch [2/100] Batch 700/782 Loss D: 0.1785, loss G: 3.6856
+10-Jul-24 00:16:18 - Epoch 2 completed. Images saved.
+10-Jul-24 00:16:20 - Epoch [3/100] Batch 0/782 Loss D: 0.3110, loss G: 1.9027
+10-Jul-24 00:16:37 - Epoch [3/100] Batch 100/782 Loss D: 0.3249, loss G: 1.8301
+10-Jul-24 00:17:01 - Epoch [3/100] Batch 200/782 Loss D: 0.4293, loss G: 2.2163
+10-Jul-24 00:17:25 - Epoch [3/100] Batch 300/782 Loss D: 0.3307, loss G: 2.4045
+10-Jul-24 00:17:52 - Epoch [3/100] Batch 400/782 Loss D: 0.4136, loss G: 2.6901
+10-Jul-24 00:18:17 - Epoch [3/100] Batch 500/782 Loss D: 0.4046, loss G: 1.4205
+10-Jul-24 00:18:49 - Epoch [3/100] Batch 600/782 Loss D: 0.4151, loss G: 1.5448
+10-Jul-24 00:19:19 - Epoch [3/100] Batch 700/782 Loss D: 0.3690, loss G: 1.3551
+10-Jul-24 00:19:40 - Epoch 3 completed. Images saved.
+10-Jul-24 00:19:41 - Epoch [4/100] Batch 0/782 Loss D: 0.4593, loss G: 1.3004
+10-Jul-24 00:20:05 - Epoch [4/100] Batch 100/782 Loss D: 0.4168, loss G: 1.7935
+10-Jul-24 00:20:29 - Epoch [4/100] Batch 200/782 Loss D: 0.9829, loss G: 1.8749
+10-Jul-24 00:20:53 - Epoch [4/100] Batch 300/782 Loss D: 0.4120, loss G: 2.1719
+10-Jul-24 00:21:19 - Epoch [4/100] Batch 400/782 Loss D: 0.3347, loss G: 1.9864
+10-Jul-24 00:21:47 - Epoch [4/100] Batch 500/782 Loss D: 0.3912, loss G: 1.5435
+10-Jul-24 00:22:16 - Epoch [4/100] Batch 600/782 Loss D: 0.3179, loss G: 1.5688
+10-Jul-24 00:22:41 - Epoch [4/100] Batch 700/782 Loss D: 0.3155, loss G: 1.4571
+10-Jul-24 00:23:06 - Epoch 4 completed. Images saved.
+10-Jul-24 00:23:08 - Epoch [5/100] Batch 0/782 Loss D: 0.3174, loss G: 1.7811
+10-Jul-24 00:23:31 - Epoch [5/100] Batch 100/782 Loss D: 0.3869, loss G: 1.3532
+10-Jul-24 00:23:54 - Epoch [5/100] Batch 200/782 Loss D: 0.4050, loss G: 1.4624
+10-Jul-24 00:24:14 - Epoch [5/100] Batch 300/782 Loss D: 0.4580, loss G: 2.7673
+10-Jul-24 00:24:39 - Epoch [5/100] Batch 400/782 Loss D: 0.4388, loss G: 1.1352
+10-Jul-24 00:25:05 - Epoch [5/100] Batch 500/782 Loss D: 0.3933, loss G: 1.6327
+10-Jul-24 00:25:34 - Epoch [5/100] Batch 600/782 Loss D: 0.3640, loss G: 1.6253
+10-Jul-24 00:26:01 - Epoch [5/100] Batch 700/782 Loss D: 0.3719, loss G: 1.8546
+10-Jul-24 00:26:28 - Epoch 5 completed. Images saved.
+10-Jul-24 00:26:29 - Epoch [6/100] Batch 0/782 Loss D: 0.3463, loss G: 1.3326
+10-Jul-24 00:26:51 - Epoch [6/100] Batch 100/782 Loss D: 0.3323, loss G: 1.7397
+10-Jul-24 00:27:17 - Epoch [6/100] Batch 200/782 Loss D: 0.3963, loss G: 2.3706
+10-Jul-24 00:27:50 - Epoch [6/100] Batch 300/782 Loss D: 0.4742, loss G: 1.2022
+10-Jul-24 00:28:15 - Epoch [6/100] Batch 400/782 Loss D: 0.3049, loss G: 1.9448
+10-Jul-24 00:28:42 - Epoch [6/100] Batch 500/782 Loss D: 0.3125, loss G: 1.8548
+10-Jul-24 00:29:08 - Epoch [6/100] Batch 600/782 Loss D: 0.3309, loss G: 2.6159
+10-Jul-24 00:29:38 - Epoch [6/100] Batch 700/782 Loss D: 0.5116, loss G: 2.4298
+10-Jul-24 00:30:03 - Epoch 6 completed. Images saved.
+10-Jul-24 00:30:04 - Epoch [7/100] Batch 0/782 Loss D: 0.2950, loss G: 1.6335
+10-Jul-24 00:30:31 - Epoch [7/100] Batch 100/782 Loss D: 0.6117, loss G: 3.8654
+10-Jul-24 00:30:54 - Epoch [7/100] Batch 200/782 Loss D: 0.3664, loss G: 2.8817
+10-Jul-24 00:31:18 - Epoch [7/100] Batch 300/782 Loss D: 0.4174, loss G: 1.6561
+10-Jul-24 00:31:45 - Epoch [7/100] Batch 400/782 Loss D: 0.2650, loss G: 1.8828
+10-Jul-24 00:32:11 - Epoch [7/100] Batch 500/782 Loss D: 0.2742, loss G: 1.7860
+10-Jul-24 00:32:33 - Epoch [7/100] Batch 600/782 Loss D: 0.4415, loss G: 0.6211
+10-Jul-24 00:32:59 - Epoch [7/100] Batch 700/782 Loss D: 0.3790, loss G: 1.4265
+10-Jul-24 00:33:18 - Epoch 7 completed. Images saved.
+10-Jul-24 00:33:19 - Epoch [8/100] Batch 0/782 Loss D: 0.3236, loss G: 2.6027
+10-Jul-24 00:33:36 - Epoch [8/100] Batch 100/782 Loss D: 0.3084, loss G: 1.7756
+10-Jul-24 00:33:51 - Epoch [8/100] Batch 200/782 Loss D: 0.3270, loss G: 2.5889
+10-Jul-24 00:34:10 - Epoch [8/100] Batch 300/782 Loss D: 0.3276, loss G: 1.0694
+10-Jul-24 00:34:28 - Epoch [8/100] Batch 400/782 Loss D: 0.4847, loss G: 2.8536
+10-Jul-24 00:34:48 - Epoch [8/100] Batch 500/782 Loss D: 0.2889, loss G: 3.3361
+10-Jul-24 00:35:15 - Epoch [8/100] Batch 600/782 Loss D: 0.2563, loss G: 1.9011
+10-Jul-24 00:35:42 - Epoch [8/100] Batch 700/782 Loss D: 0.3106, loss G: 1.8350
+10-Jul-24 00:36:06 - Epoch 8 completed. Images saved.
+10-Jul-24 00:36:07 - Epoch [9/100] Batch 0/782 Loss D: 0.3232, loss G: 2.2549
+10-Jul-24 00:36:23 - Epoch [9/100] Batch 100/782 Loss D: 0.2284, loss G: 2.0382
+10-Jul-24 00:36:42 - Epoch [9/100] Batch 200/782 Loss D: 0.2936, loss G: 1.2126
+10-Jul-24 00:37:07 - Epoch [9/100] Batch 300/782 Loss D: 0.2091, loss G: 2.4250
+10-Jul-24 00:37:32 - Epoch [9/100] Batch 400/782 Loss D: 0.2921, loss G: 2.2613
+10-Jul-24 00:37:54 - Epoch [9/100] Batch 500/782 Loss D: 0.2810, loss G: 1.5478
+10-Jul-24 00:38:18 - Epoch [9/100] Batch 600/782 Loss D: 0.3544, loss G: 1.1381
+10-Jul-24 00:38:45 - Epoch [9/100] Batch 700/782 Loss D: 0.2871, loss G: 1.1187
+10-Jul-24 00:39:08 - Epoch 9 completed. Images saved.
+10-Jul-24 00:39:09 - Epoch [10/100] Batch 0/782 Loss D: 0.2461, loss G: 2.2882
+10-Jul-24 00:39:30 - Epoch [10/100] Batch 100/782 Loss D: 0.2970, loss G: 3.4407
+10-Jul-24 00:39:46 - Epoch [10/100] Batch 200/782 Loss D: 0.2692, loss G: 1.7132
+10-Jul-24 00:40:08 - Epoch [10/100] Batch 300/782 Loss D: 0.5067, loss G: 3.9008
+10-Jul-24 00:40:30 - Epoch [10/100] Batch 400/782 Loss D: 0.4774, loss G: 2.3530
+10-Jul-24 00:40:58 - Epoch [10/100] Batch 500/782 Loss D: 0.3145, loss G: 1.1962
+10-Jul-24 00:41:22 - Epoch [10/100] Batch 600/782 Loss D: 0.2451, loss G: 2.7580
+10-Jul-24 00:41:51 - Epoch [10/100] Batch 700/782 Loss D: 0.1987, loss G: 2.2567
+10-Jul-24 00:42:14 - Epoch 10 completed. Images saved.
+10-Jul-24 00:42:16 - Epoch [11/100] Batch 0/782 Loss D: 0.2912, loss G: 1.2452
+10-Jul-24 00:42:37 - Epoch [11/100] Batch 100/782 Loss D: 0.2291, loss G: 2.0144
+10-Jul-24 00:42:58 - Epoch [11/100] Batch 200/782 Loss D: 0.2859, loss G: 3.2887
+10-Jul-24 00:43:22 - Epoch [11/100] Batch 300/782 Loss D: 0.3093, loss G: 3.6341
+10-Jul-24 00:43:48 - Epoch [11/100] Batch 400/782 Loss D: 0.2372, loss G: 2.0464
+10-Jul-24 00:44:16 - Epoch [11/100] Batch 500/782 Loss D: 0.2324, loss G: 2.1664
+10-Jul-24 00:44:41 - Epoch [11/100] Batch 600/782 Loss D: 0.2448, loss G: 2.4309
+10-Jul-24 00:45:09 - Epoch [11/100] Batch 700/782 Loss D: 0.2796, loss G: 3.4930
+10-Jul-24 00:45:34 - Epoch 11 completed. Images saved.
+10-Jul-24 00:45:36 - Epoch [12/100] Batch 0/782 Loss D: 0.2178, loss G: 2.7376
+10-Jul-24 00:45:59 - Epoch [12/100] Batch 100/782 Loss D: 0.2489, loss G: 2.6021
+10-Jul-24 00:46:17 - Epoch [12/100] Batch 200/782 Loss D: 0.1922, loss G: 2.8396
+10-Jul-24 00:46:38 - Epoch [12/100] Batch 300/782 Loss D: 0.2543, loss G: 2.0813
+10-Jul-24 00:47:04 - Epoch [12/100] Batch 400/782 Loss D: 0.2261, loss G: 2.2392
+10-Jul-24 00:47:31 - Epoch [12/100] Batch 500/782 Loss D: 0.1915, loss G: 3.4478
+10-Jul-24 00:47:58 - Epoch [12/100] Batch 600/782 Loss D: 0.2088, loss G: 3.2516
+10-Jul-24 00:48:24 - Epoch [12/100] Batch 700/782 Loss D: 0.1983, loss G: 3.0804
+10-Jul-24 00:48:50 - Epoch 12 completed. Images saved.
+10-Jul-24 00:48:52 - Epoch [13/100] Batch 0/782 Loss D: 0.2630, loss G: 2.3652
+10-Jul-24 00:49:12 - Epoch [13/100] Batch 100/782 Loss D: 0.2667, loss G: 1.4260
+10-Jul-24 00:49:31 - Epoch [13/100] Batch 200/782 Loss D: 0.2236, loss G: 2.3546
+10-Jul-24 00:49:49 - Epoch [13/100] Batch 300/782 Loss D: 0.2774, loss G: 3.0750
+10-Jul-24 00:50:13 - Epoch [13/100] Batch 400/782 Loss D: 0.2407, loss G: 1.9704
+10-Jul-24 00:50:37 - Epoch [13/100] Batch 500/782 Loss D: 0.1704, loss G: 3.1028
+10-Jul-24 00:51:02 - Epoch [13/100] Batch 600/782 Loss D: 0.2927, loss G: 1.4664
+10-Jul-24 00:51:25 - Epoch [13/100] Batch 700/782 Loss D: 0.2210, loss G: 2.4582
+10-Jul-24 00:51:46 - Epoch 13 completed. Images saved.
+10-Jul-24 00:51:47 - Epoch [14/100] Batch 0/782 Loss D: 0.2389, loss G: 1.4952
+10-Jul-24 00:52:07 - Epoch [14/100] Batch 100/782 Loss D: 0.3259, loss G: 1.7387
+10-Jul-24 00:52:28 - Epoch [14/100] Batch 200/782 Loss D: 0.2443, loss G: 1.4174
+10-Jul-24 00:52:50 - Epoch [14/100] Batch 300/782 Loss D: 0.2893, loss G: 3.1562
+10-Jul-24 00:53:12 - Epoch [14/100] Batch 400/782 Loss D: 0.2609, loss G: 1.9353
+10-Jul-24 00:53:35 - Epoch [14/100] Batch 500/782 Loss D: 0.1847, loss G: 3.0080
+10-Jul-24 00:54:01 - Epoch [14/100] Batch 600/782 Loss D: 0.2343, loss G: 3.1127
+10-Jul-24 00:54:30 - Epoch [14/100] Batch 700/782 Loss D: 0.1878, loss G: 2.3093
+10-Jul-24 00:54:50 - Epoch 14 completed. Images saved.
+10-Jul-24 00:54:51 - Epoch [15/100] Batch 0/782 Loss D: 0.3315, loss G: 1.7811
+10-Jul-24 00:55:11 - Epoch [15/100] Batch 100/782 Loss D: 0.1936, loss G: 2.4898
+10-Jul-24 00:55:33 - Epoch [15/100] Batch 200/782 Loss D: 0.2566, loss G: 3.7962
+10-Jul-24 00:55:54 - Epoch [15/100] Batch 300/782 Loss D: 0.2169, loss G: 3.4703
+10-Jul-24 00:56:18 - Epoch [15/100] Batch 400/782 Loss D: 0.2031, loss G: 1.7171
+10-Jul-24 00:56:40 - Epoch [15/100] Batch 500/782 Loss D: 0.2699, loss G: 2.3803
+10-Jul-24 00:57:06 - Epoch [15/100] Batch 600/782 Loss D: 0.2757, loss G: 2.0999
+10-Jul-24 00:57:34 - Epoch [15/100] Batch 700/782 Loss D: 0.5110, loss G: 3.2554
+10-Jul-24 00:57:54 - Epoch 15 completed. Images saved.
+10-Jul-24 00:57:55 - Epoch [16/100] Batch 0/782 Loss D: 0.1422, loss G: 3.0359
+10-Jul-24 00:58:17 - Epoch [16/100] Batch 100/782 Loss D: 0.1465, loss G: 2.4329
+10-Jul-24 00:58:39 - Epoch [16/100] Batch 200/782 Loss D: 0.1912, loss G: 2.7230
+10-Jul-24 00:59:00 - Epoch [16/100] Batch 300/782 Loss D: 0.2041, loss G: 2.0359
+10-Jul-24 00:59:23 - Epoch [16/100] Batch 400/782 Loss D: 0.2501, loss G: 3.1171
+10-Jul-24 00:59:45 - Epoch [16/100] Batch 500/782 Loss D: 0.2494, loss G: 2.2032
+10-Jul-24 01:00:12 - Epoch [16/100] Batch 600/782 Loss D: 0.1502, loss G: 2.7642
+10-Jul-24 01:00:43 - Epoch [16/100] Batch 700/782 Loss D: 0.2620, loss G: 1.1694
+10-Jul-24 01:01:05 - Epoch 16 completed. Images saved.
+10-Jul-24 01:01:06 - Epoch [17/100] Batch 0/782 Loss D: 0.2184, loss G: 3.7516
+10-Jul-24 01:01:26 - Epoch [17/100] Batch 100/782 Loss D: 0.2963, loss G: 1.7720
+10-Jul-24 01:01:48 - Epoch [17/100] Batch 200/782 Loss D: 0.2301, loss G: 2.5103
+10-Jul-24 01:02:11 - Epoch [17/100] Batch 300/782 Loss D: 0.2287, loss G: 2.3798
+10-Jul-24 01:02:36 - Epoch [17/100] Batch 400/782 Loss D: 0.2468, loss G: 3.0223
+10-Jul-24 01:02:58 - Epoch [17/100] Batch 500/782 Loss D: 0.2587, loss G: 1.7840
+10-Jul-24 01:03:23 - Epoch [17/100] Batch 600/782 Loss D: 0.2464, loss G: 2.7278
+10-Jul-24 01:03:53 - Epoch [17/100] Batch 700/782 Loss D: 0.1988, loss G: 1.7258
+10-Jul-24 01:04:16 - Epoch 17 completed. Images saved.
+10-Jul-24 01:04:17 - Epoch [18/100] Batch 0/782 Loss D: 0.1628, loss G: 3.7645
+10-Jul-24 01:04:33 - Epoch [18/100] Batch 100/782 Loss D: 0.2159, loss G: 1.7562
+10-Jul-24 01:04:54 - Epoch [18/100] Batch 200/782 Loss D: 0.2651, loss G: 2.1317
+10-Jul-24 01:05:16 - Epoch [18/100] Batch 300/782 Loss D: 0.1892, loss G: 2.7013
+10-Jul-24 01:05:40 - Epoch [18/100] Batch 400/782 Loss D: 0.2004, loss G: 1.8046
+10-Jul-24 01:06:05 - Epoch [18/100] Batch 500/782 Loss D: 0.1991, loss G: 2.7520
+10-Jul-24 01:06:27 - Epoch [18/100] Batch 600/782 Loss D: 0.2410, loss G: 2.6103
+10-Jul-24 01:07:00 - Epoch [18/100] Batch 700/782 Loss D: 0.2383, loss G: 2.0920
+10-Jul-24 01:07:23 - Epoch 18 completed. Images saved.
+10-Jul-24 01:07:25 - Epoch [19/100] Batch 0/782 Loss D: 0.1304, loss G: 2.5958
+10-Jul-24 01:07:46 - Epoch [19/100] Batch 100/782 Loss D: 0.2301, loss G: 3.1376
+10-Jul-24 01:08:05 - Epoch [19/100] Batch 200/782 Loss D: 0.1862, loss G: 2.3917
+10-Jul-24 01:08:30 - Epoch [19/100] Batch 300/782 Loss D: 0.2036, loss G: 2.2605
+10-Jul-24 01:08:55 - Epoch [19/100] Batch 400/782 Loss D: 0.2745, loss G: 2.2318
+10-Jul-24 01:09:21 - Epoch [19/100] Batch 500/782 Loss D: 0.1388, loss G: 2.9749
+10-Jul-24 01:09:44 - Epoch [19/100] Batch 600/782 Loss D: 0.2342, loss G: 2.3628
+10-Jul-24 01:10:17 - Epoch [19/100] Batch 700/782 Loss D: 0.2915, loss G: 3.2600
+10-Jul-24 01:10:41 - Epoch 19 completed. Images saved.
+10-Jul-24 01:10:42 - Epoch [20/100] Batch 0/782 Loss D: 0.2007, loss G: 4.7250
+10-Jul-24 01:11:02 - Epoch [20/100] Batch 100/782 Loss D: 0.2395, loss G: 2.2862
+10-Jul-24 01:11:21 - Epoch [20/100] Batch 200/782 Loss D: 0.3849, loss G: 1.7397
+10-Jul-24 01:11:45 - Epoch [20/100] Batch 300/782 Loss D: 0.1425, loss G: 2.8770
+10-Jul-24 01:12:10 - Epoch [20/100] Batch 400/782 Loss D: 0.1901, loss G: 2.7816
+10-Jul-24 01:12:36 - Epoch [20/100] Batch 500/782 Loss D: 0.1925, loss G: 3.0404
+10-Jul-24 01:12:59 - Epoch [20/100] Batch 600/782 Loss D: 0.2260, loss G: 1.6601
+10-Jul-24 01:13:29 - Epoch [20/100] Batch 700/782 Loss D: 0.1902, loss G: 3.1352
+10-Jul-24 01:13:53 - Epoch 20 completed. Images saved.
+10-Jul-24 01:13:54 - Epoch [21/100] Batch 0/782 Loss D: 0.2217, loss G: 3.5286
+10-Jul-24 01:14:13 - Epoch [21/100] Batch 100/782 Loss D: 0.3132, loss G: 3.9968
+10-Jul-24 01:14:30 - Epoch [21/100] Batch 200/782 Loss D: 0.2016, loss G: 2.3208
+10-Jul-24 01:14:52 - Epoch [21/100] Batch 300/782 Loss D: 0.1641, loss G: 2.7443
+10-Jul-24 01:15:13 - Epoch [21/100] Batch 400/782 Loss D: 0.1922, loss G: 3.3333
+10-Jul-24 01:15:37 - Epoch [21/100] Batch 500/782 Loss D: 0.1987, loss G: 1.7138
+10-Jul-24 01:16:02 - Epoch [21/100] Batch 600/782 Loss D: 0.1817, loss G: 3.1301
+10-Jul-24 01:16:25 - Epoch [21/100] Batch 700/782 Loss D: 0.1758, loss G: 2.8573
+10-Jul-24 01:16:46 - Epoch 21 completed. Images saved.
+10-Jul-24 01:16:48 - Epoch [22/100] Batch 0/782 Loss D: 0.2299, loss G: 2.4808
+10-Jul-24 01:17:09 - Epoch [22/100] Batch 100/782 Loss D: 0.1987, loss G: 2.4788
+10-Jul-24 01:17:30 - Epoch [22/100] Batch 200/782 Loss D: 0.2066, loss G: 3.3972
+10-Jul-24 01:17:50 - Epoch [22/100] Batch 300/782 Loss D: 0.2122, loss G: 2.6189
+10-Jul-24 01:18:13 - Epoch [22/100] Batch 400/782 Loss D: 0.1872, loss G: 3.1158
+10-Jul-24 01:18:36 - Epoch [22/100] Batch 500/782 Loss D: 0.1764, loss G: 2.8777
+10-Jul-24 01:19:01 - Epoch [22/100] Batch 600/782 Loss D: 0.1416, loss G: 2.6785
+10-Jul-24 01:19:29 - Epoch [22/100] Batch 700/782 Loss D: 0.2263, loss G: 3.7304
+10-Jul-24 01:19:52 - Epoch 22 completed. Images saved.
+10-Jul-24 01:19:54 - Epoch [23/100] Batch 0/782 Loss D: 0.3077, loss G: 5.8248
+10-Jul-24 01:20:16 - Epoch [23/100] Batch 100/782 Loss D: 0.1612, loss G: 2.6784
+10-Jul-24 01:20:37 - Epoch [23/100] Batch 200/782 Loss D: 0.1975, loss G: 2.6897
+10-Jul-24 01:20:59 - Epoch [23/100] Batch 300/782 Loss D: 0.1648, loss G: 2.4674
+10-Jul-24 01:21:20 - Epoch [23/100] Batch 400/782 Loss D: 0.1332, loss G: 3.1306
+10-Jul-24 01:21:47 - Epoch [23/100] Batch 500/782 Loss D: 0.1872, loss G: 2.9582
+10-Jul-24 01:22:15 - Epoch [23/100] Batch 600/782 Loss D: 0.1485, loss G: 2.6399
+10-Jul-24 01:22:43 - Epoch [23/100] Batch 700/782 Loss D: 0.1739, loss G: 3.1315
+10-Jul-24 01:23:05 - Epoch 23 completed. Images saved.
+10-Jul-24 01:23:07 - Epoch [24/100] Batch 0/782 Loss D: 0.2754, loss G: 2.4072
+10-Jul-24 01:23:25 - Epoch [24/100] Batch 100/782 Loss D: 0.1781, loss G: 2.4319
+10-Jul-24 01:23:42 - Epoch [24/100] Batch 200/782 Loss D: 0.2088, loss G: 2.4432
+10-Jul-24 01:24:00 - Epoch [24/100] Batch 300/782 Loss D: 0.1797, loss G: 3.5142
+10-Jul-24 01:24:18 - Epoch [24/100] Batch 400/782 Loss D: 0.2923, loss G: 4.2324
+10-Jul-24 01:24:36 - Epoch [24/100] Batch 500/782 Loss D: 0.2245, loss G: 2.5688
+10-Jul-24 01:24:56 - Epoch [24/100] Batch 600/782 Loss D: 0.2800, loss G: 2.6438
+10-Jul-24 01:25:17 - Epoch [24/100] Batch 700/782 Loss D: 0.1218, loss G: 3.0324
+10-Jul-24 01:25:37 - Epoch 24 completed. Images saved.
+10-Jul-24 01:25:38 - Epoch [25/100] Batch 0/782 Loss D: 0.1801, loss G: 2.2222
+10-Jul-24 01:25:56 - Epoch [25/100] Batch 100/782 Loss D: 0.2316, loss G: 1.8168
+10-Jul-24 01:26:15 - Epoch [25/100] Batch 200/782 Loss D: 0.1766, loss G: 2.6459
+10-Jul-24 01:26:35 - Epoch [25/100] Batch 300/782 Loss D: 0.1594, loss G: 2.6491
+10-Jul-24 01:26:53 - Epoch [25/100] Batch 400/782 Loss D: 0.1590, loss G: 2.8633
+10-Jul-24 01:27:14 - Epoch [25/100] Batch 500/782 Loss D: 0.2916, loss G: 3.4050
+10-Jul-24 01:27:40 - Epoch [25/100] Batch 600/782 Loss D: 0.1993, loss G: 2.2232
+10-Jul-24 01:28:06 - Epoch [25/100] Batch 700/782 Loss D: 0.2509, loss G: 1.5496
+10-Jul-24 01:28:26 - Epoch 25 completed. Images saved.
+10-Jul-24 01:28:27 - Epoch [26/100] Batch 0/782 Loss D: 0.1808, loss G: 4.0321
+10-Jul-24 01:28:47 - Epoch [26/100] Batch 100/782 Loss D: 0.3589, loss G: 1.4109
+10-Jul-24 01:29:07 - Epoch [26/100] Batch 200/782 Loss D: 0.1693, loss G: 3.0945
+10-Jul-24 01:29:31 - Epoch [26/100] Batch 300/782 Loss D: 0.1490, loss G: 2.9063
+10-Jul-24 01:29:53 - Epoch [26/100] Batch 400/782 Loss D: 0.2283, loss G: 2.1546
+10-Jul-24 01:30:18 - Epoch [26/100] Batch 500/782 Loss D: 0.1936, loss G: 3.1260
+10-Jul-24 01:30:43 - Epoch [26/100] Batch 600/782 Loss D: 0.1810, loss G: 3.5222
+10-Jul-24 01:31:09 - Epoch [26/100] Batch 700/782 Loss D: 0.2053, loss G: 2.5556
+10-Jul-24 01:31:29 - Epoch 26 completed. Images saved.
+10-Jul-24 01:31:31 - Epoch [27/100] Batch 0/782 Loss D: 0.2115, loss G: 2.5421
+10-Jul-24 01:31:51 - Epoch [27/100] Batch 100/782 Loss D: 0.2352, loss G: 2.4728
+10-Jul-24 01:32:11 - Epoch [27/100] Batch 200/782 Loss D: 0.1732, loss G: 2.5326
+10-Jul-24 01:32:34 - Epoch [27/100] Batch 300/782 Loss D: 0.1934, loss G: 1.9961
+10-Jul-24 01:32:58 - Epoch [27/100] Batch 400/782 Loss D: 0.1958, loss G: 3.8259
+10-Jul-24 01:33:23 - Epoch [27/100] Batch 500/782 Loss D: 0.2699, loss G: 1.8103
+10-Jul-24 01:33:45 - Epoch [27/100] Batch 600/782 Loss D: 0.2071, loss G: 2.7356
+10-Jul-24 01:34:12 - Epoch [27/100] Batch 700/782 Loss D: 0.1765, loss G: 2.8601
+10-Jul-24 01:34:35 - Epoch 27 completed. Images saved.
+10-Jul-24 01:34:36 - Epoch [28/100] Batch 0/782 Loss D: 0.1714, loss G: 2.4999
+10-Jul-24 01:34:56 - Epoch [28/100] Batch 100/782 Loss D: 0.1556, loss G: 2.4721
+10-Jul-24 01:35:18 - Epoch [28/100] Batch 200/782 Loss D: 0.1430, loss G: 4.1964
+10-Jul-24 01:35:36 - Epoch [28/100] Batch 300/782 Loss D: 0.1270, loss G: 3.2551
+10-Jul-24 01:36:02 - Epoch [28/100] Batch 400/782 Loss D: 0.1722, loss G: 2.7918
+10-Jul-24 01:36:28 - Epoch [28/100] Batch 500/782 Loss D: 0.2361, loss G: 2.6029
+10-Jul-24 01:36:53 - Epoch [28/100] Batch 600/782 Loss D: 0.1550, loss G: 3.9696
+10-Jul-24 01:37:14 - Epoch [28/100] Batch 700/782 Loss D: 0.1486, loss G: 2.4811
+10-Jul-24 01:37:40 - Epoch 28 completed. Images saved.
+10-Jul-24 01:37:41 - Epoch [29/100] Batch 0/782 Loss D: 0.1829, loss G: 1.7699
+10-Jul-24 01:38:02 - Epoch [29/100] Batch 100/782 Loss D: 0.1706, loss G: 3.4572
+10-Jul-24 01:38:25 - Epoch [29/100] Batch 200/782 Loss D: 0.1749, loss G: 2.0032
+10-Jul-24 01:38:46 - Epoch [29/100] Batch 300/782 Loss D: 0.1406, loss G: 2.9077
+10-Jul-24 01:39:07 - Epoch [29/100] Batch 400/782 Loss D: 0.1517, loss G: 3.9311
+10-Jul-24 01:39:35 - Epoch [29/100] Batch 500/782 Loss D: 0.1587, loss G: 5.3194
+10-Jul-24 01:40:01 - Epoch [29/100] Batch 600/782 Loss D: 0.1482, loss G: 2.8177
+10-Jul-24 01:40:25 - Epoch [29/100] Batch 700/782 Loss D: 0.2090, loss G: 2.2759
+10-Jul-24 01:40:47 - Epoch 29 completed. Images saved.
+10-Jul-24 01:40:48 - Epoch [30/100] Batch 0/782 Loss D: 0.1985, loss G: 3.1236
+10-Jul-24 01:41:08 - Epoch [30/100] Batch 100/782 Loss D: 0.1258, loss G: 3.3773
+10-Jul-24 01:41:31 - Epoch [30/100] Batch 200/782 Loss D: 0.2203, loss G: 4.9415
+10-Jul-24 01:41:52 - Epoch [30/100] Batch 300/782 Loss D: 0.1419, loss G: 3.1918
+10-Jul-24 01:42:13 - Epoch [30/100] Batch 400/782 Loss D: 0.2116, loss G: 3.5937
+10-Jul-24 01:42:38 - Epoch [30/100] Batch 500/782 Loss D: 0.1544, loss G: 3.9113
+10-Jul-24 01:43:05 - Epoch [30/100] Batch 600/782 Loss D: 0.1488, loss G: 2.9478
+10-Jul-24 01:43:30 - Epoch [30/100] Batch 700/782 Loss D: 0.2096, loss G: 4.4482
+10-Jul-24 01:43:47 - Epoch 30 completed. Images saved.
+10-Jul-24 01:43:49 - Epoch [31/100] Batch 0/782 Loss D: 0.2291, loss G: 1.9939
+10-Jul-24 01:44:06 - Epoch [31/100] Batch 100/782 Loss D: 0.1467, loss G: 2.6277
+10-Jul-24 01:44:28 - Epoch [31/100] Batch 200/782 Loss D: 0.2504, loss G: 2.7091
+10-Jul-24 01:44:53 - Epoch [31/100] Batch 300/782 Loss D: 0.1511, loss G: 2.5324
+10-Jul-24 01:45:19 - Epoch [31/100] Batch 400/782 Loss D: 0.2022, loss G: 3.1082
+10-Jul-24 01:45:41 - Epoch [31/100] Batch 500/782 Loss D: 0.1692, loss G: 2.8023
+10-Jul-24 01:46:08 - Epoch [31/100] Batch 600/782 Loss D: 0.1250, loss G: 3.0859
+10-Jul-24 01:46:39 - Epoch [31/100] Batch 700/782 Loss D: 0.1179, loss G: 3.7315
+10-Jul-24 01:47:00 - Epoch 31 completed. Images saved.
+10-Jul-24 01:47:01 - Epoch [32/100] Batch 0/782 Loss D: 0.1317, loss G: 3.4874
+10-Jul-24 01:47:21 - Epoch [32/100] Batch 100/782 Loss D: 0.1732, loss G: 2.6359
+10-Jul-24 01:47:44 - Epoch [32/100] Batch 200/782 Loss D: 0.1447, loss G: 2.8467
+10-Jul-24 01:48:08 - Epoch [32/100] Batch 300/782 Loss D: 0.1069, loss G: 4.6743
+10-Jul-24 01:48:29 - Epoch [32/100] Batch 400/782 Loss D: 0.1712, loss G: 5.0291
+10-Jul-24 01:48:51 - Epoch [32/100] Batch 500/782 Loss D: 0.0940, loss G: 3.7044
+10-Jul-24 01:49:11 - Epoch [32/100] Batch 600/782 Loss D: 0.1113, loss G: 3.2586
+10-Jul-24 01:49:33 - Epoch [32/100] Batch 700/782 Loss D: 0.1573, loss G: 5.1755
+10-Jul-24 01:50:01 - Epoch 32 completed. Images saved.
+10-Jul-24 01:50:03 - Epoch [33/100] Batch 0/782 Loss D: 0.1418, loss G: 3.5317
+10-Jul-24 01:50:29 - Epoch [33/100] Batch 100/782 Loss D: 0.1058, loss G: 4.3657
+10-Jul-24 01:50:53 - Epoch [33/100] Batch 200/782 Loss D: 0.0992, loss G: 3.8116
+10-Jul-24 01:51:13 - Epoch [33/100] Batch 300/782 Loss D: 0.1977, loss G: 5.0181
+10-Jul-24 01:51:40 - Epoch [33/100] Batch 400/782 Loss D: 0.1360, loss G: 4.2835
+10-Jul-24 01:52:06 - Epoch [33/100] Batch 500/782 Loss D: 0.1028, loss G: 4.5222
+10-Jul-24 01:52:27 - Epoch [33/100] Batch 600/782 Loss D: 0.1270, loss G: 3.6258
+10-Jul-24 01:52:48 - Epoch [33/100] Batch 700/782 Loss D: 0.1325, loss G: 4.0244
+10-Jul-24 01:53:05 - Epoch 33 completed. Images saved.
+10-Jul-24 01:53:06 - Epoch [34/100] Batch 0/782 Loss D: 0.1611, loss G: 6.5138
+10-Jul-24 01:53:22 - Epoch [34/100] Batch 100/782 Loss D: 0.1824, loss G: 2.5505
+10-Jul-24 01:53:40 - Epoch [34/100] Batch 200/782 Loss D: 0.1637, loss G: 6.3175
+10-Jul-24 01:53:57 - Epoch [34/100] Batch 300/782 Loss D: 0.3070, loss G: 3.2799
+10-Jul-24 01:54:15 - Epoch [34/100] Batch 400/782 Loss D: 0.1970, loss G: 4.9331
+10-Jul-24 01:54:33 - Epoch [34/100] Batch 500/782 Loss D: 0.1984, loss G: 5.0777
+10-Jul-24 01:54:52 - Epoch [34/100] Batch 600/782 Loss D: 0.2146, loss G: 3.1008
+10-Jul-24 01:55:12 - Epoch [34/100] Batch 700/782 Loss D: 0.0902, loss G: 4.0467
+10-Jul-24 01:55:29 - Epoch 34 completed. Images saved.
+10-Jul-24 01:55:30 - Epoch [35/100] Batch 0/782 Loss D: 0.1360, loss G: 4.4015
+10-Jul-24 01:55:47 - Epoch [35/100] Batch 100/782 Loss D: 0.0849, loss G: 4.7249
+10-Jul-24 01:56:04 - Epoch [35/100] Batch 200/782 Loss D: 0.0957, loss G: 4.9871
+10-Jul-24 01:56:21 - Epoch [35/100] Batch 300/782 Loss D: 0.1363, loss G: 3.4511
+10-Jul-24 01:56:40 - Epoch [35/100] Batch 400/782 Loss D: 0.1192, loss G: 4.1337
+10-Jul-24 01:56:58 - Epoch [35/100] Batch 500/782 Loss D: 0.1551, loss G: 4.4435
+10-Jul-24 01:57:17 - Epoch [35/100] Batch 600/782 Loss D: 0.1266, loss G: 4.3677
+10-Jul-24 01:57:38 - Epoch [35/100] Batch 700/782 Loss D: 0.1104, loss G: 3.5495
+10-Jul-24 01:57:54 - Epoch 35 completed. Images saved.
+10-Jul-24 01:57:55 - Epoch [36/100] Batch 0/782 Loss D: 0.1325, loss G: 3.7490
+10-Jul-24 01:58:10 - Epoch [36/100] Batch 100/782 Loss D: 0.1366, loss G: 3.5904
+10-Jul-24 01:58:27 - Epoch [36/100] Batch 200/782 Loss D: 0.1826, loss G: 3.6840
+10-Jul-24 01:58:44 - Epoch [36/100] Batch 300/782 Loss D: 0.2148, loss G: 7.8583
+10-Jul-24 01:59:02 - Epoch [36/100] Batch 400/782 Loss D: 0.0864, loss G: 3.7226
+10-Jul-24 01:59:19 - Epoch [36/100] Batch 500/782 Loss D: 0.0917, loss G: 4.9487
+10-Jul-24 01:59:38 - Epoch [36/100] Batch 600/782 Loss D: 0.0624, loss G: 4.5057
+10-Jul-24 01:59:58 - Epoch [36/100] Batch 700/782 Loss D: 0.1047, loss G: 4.1838
+10-Jul-24 02:00:14 - Epoch 36 completed. Images saved.
+10-Jul-24 02:00:15 - Epoch [37/100] Batch 0/782 Loss D: 0.1169, loss G: 3.2055
+10-Jul-24 02:00:30 - Epoch [37/100] Batch 100/782 Loss D: 0.0777, loss G: 3.9570
+10-Jul-24 02:00:46 - Epoch [37/100] Batch 200/782 Loss D: 0.1287, loss G: 4.4290
+10-Jul-24 02:01:04 - Epoch [37/100] Batch 300/782 Loss D: 0.0665, loss G: 4.6476
+10-Jul-24 02:01:22 - Epoch [37/100] Batch 400/782 Loss D: 0.1775, loss G: 2.6243
+10-Jul-24 02:01:39 - Epoch [37/100] Batch 500/782 Loss D: 0.1177, loss G: 4.4640
+10-Jul-24 02:01:58 - Epoch [37/100] Batch 600/782 Loss D: 0.0924, loss G: 4.5101
+10-Jul-24 02:02:22 - Epoch [37/100] Batch 700/782 Loss D: 0.1116, loss G: 6.8267
+10-Jul-24 02:02:38 - Epoch 37 completed. Images saved.
+10-Jul-24 02:02:40 - Epoch [38/100] Batch 0/782 Loss D: 0.1244, loss G: 5.9297
+10-Jul-24 02:02:55 - Epoch [38/100] Batch 100/782 Loss D: 0.1035, loss G: 4.4047
+10-Jul-24 02:03:10 - Epoch [38/100] Batch 200/782 Loss D: 0.1392, loss G: 4.4083
+10-Jul-24 02:03:27 - Epoch [38/100] Batch 300/782 Loss D: 0.0868, loss G: 4.8627
+10-Jul-24 02:03:43 - Epoch [38/100] Batch 400/782 Loss D: 0.0911, loss G: 4.5809
+10-Jul-24 02:04:01 - Epoch [38/100] Batch 500/782 Loss D: 0.1610, loss G: 3.1870
+10-Jul-24 02:04:26 - Epoch [38/100] Batch 600/782 Loss D: 0.1194, loss G: 3.2938
+10-Jul-24 02:04:57 - Epoch [38/100] Batch 700/782 Loss D: 0.2101, loss G: 2.8259
+10-Jul-24 02:05:16 - Epoch 38 completed. Images saved.
+10-Jul-24 02:05:18 - Epoch [39/100] Batch 0/782 Loss D: 0.0692, loss G: 5.8439
+10-Jul-24 02:05:36 - Epoch [39/100] Batch 100/782 Loss D: 0.0785, loss G: 5.4872
+10-Jul-24 02:06:02 - Epoch [39/100] Batch 200/782 Loss D: 0.1341, loss G: 3.1498
+10-Jul-24 02:06:25 - Epoch [39/100] Batch 300/782 Loss D: 0.0833, loss G: 3.7888
+10-Jul-24 02:06:45 - Epoch [39/100] Batch 400/782 Loss D: 0.2282, loss G: 5.2719
+10-Jul-24 02:07:05 - Epoch [39/100] Batch 500/782 Loss D: 0.1182, loss G: 4.2872
+10-Jul-24 02:07:25 - Epoch [39/100] Batch 600/782 Loss D: 0.0928, loss G: 5.5093
+10-Jul-24 02:07:48 - Epoch [39/100] Batch 700/782 Loss D: 0.4066, loss G: 10.2404
+10-Jul-24 02:08:08 - Epoch 39 completed. Images saved.
+10-Jul-24 02:08:10 - Epoch [40/100] Batch 0/782 Loss D: 0.0775, loss G: 4.8385
+10-Jul-24 02:08:28 - Epoch [40/100] Batch 100/782 Loss D: 0.0598, loss G: 5.2795
+10-Jul-24 02:08:48 - Epoch [40/100] Batch 200/782 Loss D: 0.0766, loss G: 4.9430
+10-Jul-24 02:09:11 - Epoch [40/100] Batch 300/782 Loss D: 0.0764, loss G: 3.5647
+10-Jul-24 02:09:33 - Epoch [40/100] Batch 400/782 Loss D: 0.0881, loss G: 5.8300
+10-Jul-24 02:09:57 - Epoch [40/100] Batch 500/782 Loss D: 0.1821, loss G: 3.8378
+10-Jul-24 02:10:22 - Epoch [40/100] Batch 600/782 Loss D: 0.0617, loss G: 4.7138
+10-Jul-24 02:10:50 - Epoch [40/100] Batch 700/782 Loss D: 0.0786, loss G: 5.0038
+10-Jul-24 02:11:11 - Epoch 40 completed. Images saved.
+10-Jul-24 02:11:13 - Epoch [41/100] Batch 0/782 Loss D: 0.1030, loss G: 8.2633
+10-Jul-24 02:11:34 - Epoch [41/100] Batch 100/782 Loss D: 0.0975, loss G: 3.7051
+10-Jul-24 02:11:54 - Epoch [41/100] Batch 200/782 Loss D: 0.0489, loss G: 5.2560
+10-Jul-24 02:12:14 - Epoch [41/100] Batch 300/782 Loss D: 0.0869, loss G: 5.8536
+10-Jul-24 02:12:34 - Epoch [41/100] Batch 400/782 Loss D: 0.1094, loss G: 5.2962
+10-Jul-24 02:12:55 - Epoch [41/100] Batch 500/782 Loss D: 0.0764, loss G: 4.7992
+10-Jul-24 02:13:19 - Epoch [41/100] Batch 600/782 Loss D: 0.0914, loss G: 5.3828
+10-Jul-24 02:13:46 - Epoch [41/100] Batch 700/782 Loss D: 0.0806, loss G: 5.6235
+10-Jul-24 02:14:08 - Epoch 41 completed. Images saved.
+10-Jul-24 02:14:09 - Epoch [42/100] Batch 0/782 Loss D: 0.0996, loss G: 3.5356
+10-Jul-24 02:14:30 - Epoch [42/100] Batch 100/782 Loss D: 0.0949, loss G: 5.0389
+10-Jul-24 02:14:51 - Epoch [42/100] Batch 200/782 Loss D: 0.0921, loss G: 5.2735
+10-Jul-24 02:15:13 - Epoch [42/100] Batch 300/782 Loss D: 0.0882, loss G: 7.6887
+10-Jul-24 02:15:36 - Epoch [42/100] Batch 400/782 Loss D: 0.0787, loss G: 5.5749
+10-Jul-24 02:15:57 - Epoch [42/100] Batch 500/782 Loss D: 0.1037, loss G: 7.0426
+10-Jul-24 02:16:20 - Epoch [42/100] Batch 600/782 Loss D: 0.0621, loss G: 6.8774
+10-Jul-24 02:16:45 - Epoch [42/100] Batch 700/782 Loss D: 0.0606, loss G: 6.7713
+10-Jul-24 02:17:07 - Epoch 42 completed. Images saved.
+10-Jul-24 02:17:08 - Epoch [43/100] Batch 0/782 Loss D: 0.4365, loss G: 8.9402
+10-Jul-24 02:17:28 - Epoch [43/100] Batch 100/782 Loss D: 0.0621, loss G: 5.5341
+10-Jul-24 02:17:49 - Epoch [43/100] Batch 200/782 Loss D: 0.0737, loss G: 6.9233
+10-Jul-24 02:18:12 - Epoch [43/100] Batch 300/782 Loss D: 0.1191, loss G: 5.7678
+10-Jul-24 02:18:36 - Epoch [43/100] Batch 400/782 Loss D: 0.1364, loss G: 5.2646
+10-Jul-24 02:19:03 - Epoch [43/100] Batch 500/782 Loss D: 0.1083, loss G: 5.3396
+10-Jul-24 02:19:31 - Epoch [43/100] Batch 600/782 Loss D: 0.0903, loss G: 6.6707
+10-Jul-24 02:19:56 - Epoch [43/100] Batch 700/782 Loss D: 0.0472, loss G: 5.4916
+10-Jul-24 02:20:17 - Epoch 43 completed. Images saved.
+10-Jul-24 02:20:18 - Epoch [44/100] Batch 0/782 Loss D: 0.1116, loss G: 4.8639
+10-Jul-24 02:20:37 - Epoch [44/100] Batch 100/782 Loss D: 0.0890, loss G: 4.9592
+10-Jul-24 02:20:57 - Epoch [44/100] Batch 200/782 Loss D: 0.1480, loss G: 4.5763
+10-Jul-24 02:21:21 - Epoch [44/100] Batch 300/782 Loss D: 0.0977, loss G: 4.6762
+10-Jul-24 02:21:44 - Epoch [44/100] Batch 400/782 Loss D: 0.0466, loss G: 6.2163
+10-Jul-24 02:22:10 - Epoch [44/100] Batch 500/782 Loss D: 0.3422, loss G: 5.3128
+10-Jul-24 02:22:37 - Epoch [44/100] Batch 600/782 Loss D: 0.0622, loss G: 6.3050
+10-Jul-24 02:23:05 - Epoch [44/100] Batch 700/782 Loss D: 0.1178, loss G: 5.3279
+10-Jul-24 02:23:27 - Epoch 44 completed. Images saved.
+10-Jul-24 02:23:28 - Epoch [45/100] Batch 0/782 Loss D: 0.1178, loss G: 4.8671
+10-Jul-24 02:23:48 - Epoch [45/100] Batch 100/782 Loss D: 0.0498, loss G: 5.7247
+10-Jul-24 02:24:07 - Epoch [45/100] Batch 200/782 Loss D: 0.0649, loss G: 5.4895
+10-Jul-24 02:24:29 - Epoch [45/100] Batch 300/782 Loss D: 0.1428, loss G: 5.8718
+10-Jul-24 02:24:53 - Epoch [45/100] Batch 400/782 Loss D: 0.0451, loss G: 6.3075
+10-Jul-24 02:25:18 - Epoch [45/100] Batch 500/782 Loss D: 0.0628, loss G: 5.6011
+10-Jul-24 02:25:45 - Epoch [45/100] Batch 600/782 Loss D: 0.0859, loss G: 5.4415
+10-Jul-24 02:26:12 - Epoch [45/100] Batch 700/782 Loss D: 0.0688, loss G: 7.4726
+10-Jul-24 02:26:37 - Epoch 45 completed. Images saved.
+10-Jul-24 02:26:39 - Epoch [46/100] Batch 0/782 Loss D: 0.1403, loss G: 4.6069
+10-Jul-24 02:27:00 - Epoch [46/100] Batch 100/782 Loss D: 0.1319, loss G: 7.4359
+10-Jul-24 02:27:21 - Epoch [46/100] Batch 200/782 Loss D: 0.1737, loss G: 5.3207
+10-Jul-24 02:27:40 - Epoch [46/100] Batch 300/782 Loss D: 0.0642, loss G: 5.9761
+10-Jul-24 02:28:01 - Epoch [46/100] Batch 400/782 Loss D: 0.0819, loss G: 5.0683
+10-Jul-24 02:28:28 - Epoch [46/100] Batch 500/782 Loss D: 0.0448, loss G: 5.9975
+10-Jul-24 02:28:54 - Epoch [46/100] Batch 600/782 Loss D: 0.0701, loss G: 7.5646
+10-Jul-24 02:29:24 - Epoch [46/100] Batch 700/782 Loss D: 0.0505, loss G: 6.3625
+10-Jul-24 02:29:46 - Epoch 46 completed. Images saved.
+10-Jul-24 02:29:48 - Epoch [47/100] Batch 0/782 Loss D: 0.4380, loss G: 15.1427
+10-Jul-24 02:30:09 - Epoch [47/100] Batch 100/782 Loss D: 0.0957, loss G: 4.6776
+10-Jul-24 02:30:30 - Epoch [47/100] Batch 200/782 Loss D: 0.1533, loss G: 5.7690
+10-Jul-24 02:30:54 - Epoch [47/100] Batch 300/782 Loss D: 0.2027, loss G: 4.8315
+10-Jul-24 02:31:15 - Epoch [47/100] Batch 400/782 Loss D: 0.0823, loss G: 6.4883
+10-Jul-24 02:31:37 - Epoch [47/100] Batch 500/782 Loss D: 0.0625, loss G: 6.5154
+10-Jul-24 02:32:00 - Epoch [47/100] Batch 600/782 Loss D: 0.1301, loss G: 5.2397
+10-Jul-24 02:32:26 - Epoch [47/100] Batch 700/782 Loss D: 0.0677, loss G: 7.1198
+10-Jul-24 02:32:47 - Epoch 47 completed. Images saved.
+10-Jul-24 02:32:49 - Epoch [48/100] Batch 0/782 Loss D: 0.0896, loss G: 5.7752
+10-Jul-24 02:33:09 - Epoch [48/100] Batch 100/782 Loss D: 0.0608, loss G: 5.8671
+10-Jul-24 02:33:30 - Epoch [48/100] Batch 200/782 Loss D: 0.0680, loss G: 5.6791
+10-Jul-24 02:33:53 - Epoch [48/100] Batch 300/782 Loss D: 0.1214, loss G: 6.2739
+10-Jul-24 02:34:16 - Epoch [48/100] Batch 400/782 Loss D: 0.0673, loss G: 6.9025
+10-Jul-24 02:34:34 - Epoch [48/100] Batch 500/782 Loss D: 0.0494, loss G: 6.3658
+10-Jul-24 02:34:53 - Epoch [48/100] Batch 600/782 Loss D: 0.1243, loss G: 8.0858
+10-Jul-24 02:35:13 - Epoch [48/100] Batch 700/782 Loss D: 0.0838, loss G: 7.7589
+10-Jul-24 02:35:31 - Epoch 48 completed. Images saved.
+10-Jul-24 02:35:32 - Epoch [49/100] Batch 0/782 Loss D: 0.1179, loss G: 4.8989
+10-Jul-24 02:35:49 - Epoch [49/100] Batch 100/782 Loss D: 0.0765, loss G: 4.9398
+10-Jul-24 02:36:06 - Epoch [49/100] Batch 200/782 Loss D: 0.0641, loss G: 6.3511
+10-Jul-24 02:36:23 - Epoch [49/100] Batch 300/782 Loss D: 0.1023, loss G: 5.8816
+10-Jul-24 02:36:42 - Epoch [49/100] Batch 400/782 Loss D: 0.1444, loss G: 9.4753
+10-Jul-24 02:37:02 - Epoch [49/100] Batch 500/782 Loss D: 0.0578, loss G: 7.2539
+10-Jul-24 02:37:23 - Epoch [49/100] Batch 600/782 Loss D: 0.0558, loss G: 6.3883
+10-Jul-24 02:37:44 - Epoch [49/100] Batch 700/782 Loss D: 0.0242, loss G: 6.6011
+10-Jul-24 02:38:02 - Epoch 49 completed. Images saved.
+10-Jul-24 02:38:03 - Epoch [50/100] Batch 0/782 Loss D: 0.0563, loss G: 6.6311
+10-Jul-24 02:38:18 - Epoch [50/100] Batch 100/782 Loss D: 0.0704, loss G: 7.1609
+10-Jul-24 02:38:34 - Epoch [50/100] Batch 200/782 Loss D: 0.0536, loss G: 6.6092
+10-Jul-24 02:38:50 - Epoch [50/100] Batch 300/782 Loss D: 0.0435, loss G: 7.2825
+10-Jul-24 02:39:06 - Epoch [50/100] Batch 400/782 Loss D: 0.0724, loss G: 6.5880
+10-Jul-24 02:39:25 - Epoch [50/100] Batch 500/782 Loss D: 0.0705, loss G: 7.9323
+10-Jul-24 02:39:45 - Epoch [50/100] Batch 600/782 Loss D: 0.0499, loss G: 7.9549
+10-Jul-24 02:40:06 - Epoch [50/100] Batch 700/782 Loss D: 0.0698, loss G: 5.6232
+10-Jul-24 02:40:23 - Epoch 50 completed. Images saved.
+10-Jul-24 02:40:25 - Epoch [51/100] Batch 0/782 Loss D: 0.1220, loss G: 6.3567
+10-Jul-24 02:40:40 - Epoch [51/100] Batch 100/782 Loss D: 0.0400, loss G: 7.3313
+10-Jul-24 02:40:57 - Epoch [51/100] Batch 200/782 Loss D: 0.0424, loss G: 7.0122
+10-Jul-24 02:41:14 - Epoch [51/100] Batch 300/782 Loss D: 0.0871, loss G: 7.5156
+10-Jul-24 02:41:30 - Epoch [51/100] Batch 400/782 Loss D: 0.0590, loss G: 5.5135
+10-Jul-24 02:41:48 - Epoch [51/100] Batch 500/782 Loss D: 0.0842, loss G: 8.6985
+10-Jul-24 02:42:17 - Epoch [51/100] Batch 600/782 Loss D: 0.0419, loss G: 7.4213
+10-Jul-24 02:42:43 - Epoch [51/100] Batch 700/782 Loss D: 0.0690, loss G: 7.0894
+10-Jul-24 02:43:02 - Epoch 51 completed. Images saved.
+10-Jul-24 02:43:04 - Epoch [52/100] Batch 0/782 Loss D: 0.1113, loss G: 5.8558
+10-Jul-24 02:43:24 - Epoch [52/100] Batch 100/782 Loss D: 0.0935, loss G: 11.7863
+10-Jul-24 02:43:43 - Epoch [52/100] Batch 200/782 Loss D: 0.0427, loss G: 6.6023
+10-Jul-24 02:44:01 - Epoch [52/100] Batch 300/782 Loss D: 0.0877, loss G: 6.6578
+10-Jul-24 02:44:19 - Epoch [52/100] Batch 400/782 Loss D: 0.0451, loss G: 8.0948
+10-Jul-24 02:44:39 - Epoch [52/100] Batch 500/782 Loss D: 0.0435, loss G: 7.0063
+10-Jul-24 02:45:01 - Epoch [52/100] Batch 600/782 Loss D: 0.0960, loss G: 4.9304
+10-Jul-24 02:45:26 - Epoch [52/100] Batch 700/782 Loss D: 0.0889, loss G: 6.5984
+10-Jul-24 02:45:44 - Epoch 52 completed. Images saved.
+10-Jul-24 02:45:45 - Epoch [53/100] Batch 0/782 Loss D: 0.0686, loss G: 8.5451
+10-Jul-24 02:46:01 - Epoch [53/100] Batch 100/782 Loss D: 0.8236, loss G: 6.6752
+10-Jul-24 02:46:17 - Epoch [53/100] Batch 200/782 Loss D: 0.0391, loss G: 6.4301
+10-Jul-24 02:46:34 - Epoch [53/100] Batch 300/782 Loss D: 0.0364, loss G: 6.7265
+10-Jul-24 02:46:52 - Epoch [53/100] Batch 400/782 Loss D: 0.0316, loss G: 7.6747
+10-Jul-24 02:47:12 - Epoch [53/100] Batch 500/782 Loss D: 0.1068, loss G: 10.3515
+10-Jul-24 02:47:32 - Epoch [53/100] Batch 600/782 Loss D: 0.0396, loss G: 8.1845
+10-Jul-24 02:47:54 - Epoch [53/100] Batch 700/782 Loss D: 0.0520, loss G: 6.1177
+10-Jul-24 02:48:12 - Epoch 53 completed. Images saved.
+10-Jul-24 02:48:13 - Epoch [54/100] Batch 0/782 Loss D: 0.0439, loss G: 7.3243
+10-Jul-24 02:48:31 - Epoch [54/100] Batch 100/782 Loss D: 0.0431, loss G: 8.1781
+10-Jul-24 02:48:48 - Epoch [54/100] Batch 200/782 Loss D: 0.1261, loss G: 4.2972
+10-Jul-24 02:49:05 - Epoch [54/100] Batch 300/782 Loss D: 0.0538, loss G: 5.9648
+10-Jul-24 02:49:24 - Epoch [54/100] Batch 400/782 Loss D: 0.0462, loss G: 7.7868
+10-Jul-24 02:49:47 - Epoch [54/100] Batch 500/782 Loss D: 0.0431, loss G: 7.5494
+10-Jul-24 02:50:09 - Epoch [54/100] Batch 600/782 Loss D: 0.0735, loss G: 6.4966
+10-Jul-24 02:50:32 - Epoch [54/100] Batch 700/782 Loss D: 0.1310, loss G: 7.0921
+10-Jul-24 02:50:50 - Epoch 54 completed. Images saved.
+10-Jul-24 02:50:52 - Epoch [55/100] Batch 0/782 Loss D: 0.0311, loss G: 7.0896
+10-Jul-24 02:51:09 - Epoch [55/100] Batch 100/782 Loss D: 0.0435, loss G: 8.7938
+10-Jul-24 02:51:27 - Epoch [55/100] Batch 200/782 Loss D: 0.0456, loss G: 8.0519
+10-Jul-24 02:51:47 - Epoch [55/100] Batch 300/782 Loss D: 0.0453, loss G: 6.8732
+10-Jul-24 02:52:09 - Epoch [55/100] Batch 400/782 Loss D: 0.0642, loss G: 5.3217
+10-Jul-24 02:52:31 - Epoch [55/100] Batch 500/782 Loss D: 0.1657, loss G: 3.6853
+10-Jul-24 02:52:54 - Epoch [55/100] Batch 600/782 Loss D: 0.0533, loss G: 6.7439
+10-Jul-24 02:53:18 - Epoch [55/100] Batch 700/782 Loss D: 0.0674, loss G: 8.3914
+10-Jul-24 02:53:36 - Epoch 55 completed. Images saved.
+10-Jul-24 02:53:37 - Epoch [56/100] Batch 0/782 Loss D: 0.0553, loss G: 6.7667
+10-Jul-24 02:53:52 - Epoch [56/100] Batch 100/782 Loss D: 0.0250, loss G: 7.6872
+10-Jul-24 02:54:08 - Epoch [56/100] Batch 200/782 Loss D: 0.1569, loss G: 6.1001
+10-Jul-24 02:54:25 - Epoch [56/100] Batch 300/782 Loss D: 0.0605, loss G: 5.9291
+10-Jul-24 02:54:43 - Epoch [56/100] Batch 400/782 Loss D: 0.0535, loss G: 8.2908
+10-Jul-24 02:55:02 - Epoch [56/100] Batch 500/782 Loss D: 0.0755, loss G: 6.5346
+10-Jul-24 02:55:22 - Epoch [56/100] Batch 600/782 Loss D: 0.0360, loss G: 7.2258
+10-Jul-24 02:55:48 - Epoch [56/100] Batch 700/782 Loss D: 0.0566, loss G: 6.4157
+10-Jul-24 02:56:03 - Epoch 56 completed. Images saved.
+10-Jul-24 02:56:04 - Epoch [57/100] Batch 0/782 Loss D: 0.0738, loss G: 7.4066
+10-Jul-24 02:56:20 - Epoch [57/100] Batch 100/782 Loss D: 0.0448, loss G: 8.2296
+10-Jul-24 02:56:35 - Epoch [57/100] Batch 200/782 Loss D: 0.0451, loss G: 7.3737
+10-Jul-24 02:56:51 - Epoch [57/100] Batch 300/782 Loss D: 0.0768, loss G: 8.7798
+10-Jul-24 02:57:08 - Epoch [57/100] Batch 400/782 Loss D: 0.0746, loss G: 7.2153
+10-Jul-24 02:57:27 - Epoch [57/100] Batch 500/782 Loss D: 0.0780, loss G: 5.6384
+10-Jul-24 02:57:43 - Epoch [57/100] Batch 600/782 Loss D: 0.0540, loss G: 7.0256
+10-Jul-24 02:57:59 - Epoch [57/100] Batch 700/782 Loss D: 0.1892, loss G: 10.3662
+10-Jul-24 02:58:12 - Epoch 57 completed. Images saved.
+10-Jul-24 02:58:13 - Epoch [58/100] Batch 0/782 Loss D: 0.0547, loss G: 7.5462
+10-Jul-24 02:58:24 - Epoch [58/100] Batch 100/782 Loss D: 0.0294, loss G: 8.4339
+10-Jul-24 02:58:35 - Epoch [58/100] Batch 200/782 Loss D: 0.1890, loss G: 4.8124
+10-Jul-24 02:58:47 - Epoch [58/100] Batch 300/782 Loss D: 0.0517, loss G: 9.0331
+10-Jul-24 02:58:58 - Epoch [58/100] Batch 400/782 Loss D: 0.0294, loss G: 6.4803
+10-Jul-24 02:59:10 - Epoch [58/100] Batch 500/782 Loss D: 0.1964, loss G: 7.3760
+10-Jul-24 02:59:21 - Epoch [58/100] Batch 600/782 Loss D: 0.0558, loss G: 7.4751
+10-Jul-24 02:59:33 - Epoch [58/100] Batch 700/782 Loss D: 0.0984, loss G: 6.3673
+10-Jul-24 02:59:42 - Epoch 58 completed. Images saved.
+10-Jul-24 02:59:43 - Epoch [59/100] Batch 0/782 Loss D: 0.0458, loss G: 8.0561
+10-Jul-24 02:59:53 - Epoch [59/100] Batch 100/782 Loss D: 0.0642, loss G: 7.4390
+10-Jul-24 03:00:03 - Epoch [59/100] Batch 200/782 Loss D: 0.0229, loss G: 8.0908
+10-Jul-24 03:00:13 - Epoch [59/100] Batch 300/782 Loss D: 0.0293, loss G: 8.6477
+10-Jul-24 03:00:23 - Epoch [59/100] Batch 400/782 Loss D: 0.0710, loss G: 6.9168
+10-Jul-24 03:00:33 - Epoch [59/100] Batch 500/782 Loss D: 0.1110, loss G: 6.1882
+10-Jul-24 03:00:44 - Epoch [59/100] Batch 600/782 Loss D: 0.0424, loss G: 6.3218
+10-Jul-24 03:00:54 - Epoch [59/100] Batch 700/782 Loss D: 0.0631, loss G: 6.5423
+10-Jul-24 03:01:03 - Epoch 59 completed. Images saved.
+10-Jul-24 03:01:04 - Epoch [60/100] Batch 0/782 Loss D: 0.3681, loss G: 1.9762
+10-Jul-24 03:01:13 - Epoch [60/100] Batch 100/782 Loss D: 0.0335, loss G: 7.3732
+10-Jul-24 03:01:23 - Epoch [60/100] Batch 200/782 Loss D: 0.0332, loss G: 7.9415
+10-Jul-24 03:01:33 - Epoch [60/100] Batch 300/782 Loss D: 0.0194, loss G: 9.2528
+10-Jul-24 03:01:43 - Epoch [60/100] Batch 400/782 Loss D: 0.0329, loss G: 7.9053
+10-Jul-24 03:01:53 - Epoch [60/100] Batch 500/782 Loss D: 0.0397, loss G: 6.8406
+10-Jul-24 03:02:03 - Epoch [60/100] Batch 600/782 Loss D: 0.0519, loss G: 6.4713
+10-Jul-24 03:02:14 - Epoch [60/100] Batch 700/782 Loss D: 0.1790, loss G: 7.0490
+10-Jul-24 03:02:22 - Epoch 60 completed. Images saved.
+10-Jul-24 03:02:23 - Epoch [61/100] Batch 0/782 Loss D: 0.0256, loss G: 7.9483
+10-Jul-24 03:02:33 - Epoch [61/100] Batch 100/782 Loss D: 0.1658, loss G: 8.6701
+10-Jul-24 03:02:43 - Epoch [61/100] Batch 200/782 Loss D: 0.0359, loss G: 7.4813
+10-Jul-24 03:02:54 - Epoch [61/100] Batch 300/782 Loss D: 0.0357, loss G: 10.4659
+10-Jul-24 03:03:04 - Epoch [61/100] Batch 400/782 Loss D: 0.0389, loss G: 8.6353
+10-Jul-24 03:03:15 - Epoch [61/100] Batch 500/782 Loss D: 0.1184, loss G: 5.7377
+10-Jul-24 03:03:25 - Epoch [61/100] Batch 600/782 Loss D: 0.0317, loss G: 7.3574
+10-Jul-24 03:03:36 - Epoch [61/100] Batch 700/782 Loss D: 0.0527, loss G: 7.1611
+10-Jul-24 03:03:45 - Epoch 61 completed. Images saved.
+10-Jul-24 03:03:45 - Epoch [62/100] Batch 0/782 Loss D: 0.1484, loss G: 7.1148
+10-Jul-24 03:03:55 - Epoch [62/100] Batch 100/782 Loss D: 0.0178, loss G: 8.2512
+10-Jul-24 03:04:06 - Epoch [62/100] Batch 200/782 Loss D: 0.0862, loss G: 6.7477
+10-Jul-24 03:04:16 - Epoch [62/100] Batch 300/782 Loss D: 0.0305, loss G: 9.5702
+10-Jul-24 03:04:27 - Epoch [62/100] Batch 400/782 Loss D: 0.0719, loss G: 5.8381
+10-Jul-24 03:04:38 - Epoch [62/100] Batch 500/782 Loss D: 0.0750, loss G: 6.6447
+10-Jul-24 03:04:49 - Epoch [62/100] Batch 600/782 Loss D: 0.0652, loss G: 6.2622
+10-Jul-24 03:05:01 - Epoch [62/100] Batch 700/782 Loss D: 0.1012, loss G: 4.6451
+10-Jul-24 03:05:11 - Epoch 62 completed. Images saved.
+10-Jul-24 03:05:12 - Epoch [63/100] Batch 0/782 Loss D: 0.0327, loss G: 7.7832
+10-Jul-24 03:05:23 - Epoch [63/100] Batch 100/782 Loss D: 0.0147, loss G: 8.1728
+10-Jul-24 03:05:34 - Epoch [63/100] Batch 200/782 Loss D: 0.0847, loss G: 5.6130
+10-Jul-24 03:05:45 - Epoch [63/100] Batch 300/782 Loss D: 0.0558, loss G: 7.0317
+10-Jul-24 03:05:56 - Epoch [63/100] Batch 400/782 Loss D: 0.0733, loss G: 7.1197
+10-Jul-24 03:06:07 - Epoch [63/100] Batch 500/782 Loss D: 0.0328, loss G: 7.6790
+10-Jul-24 03:06:19 - Epoch [63/100] Batch 600/782 Loss D: 0.0942, loss G: 7.2801
+10-Jul-24 03:06:30 - Epoch [63/100] Batch 700/782 Loss D: 0.0538, loss G: 7.6548
+10-Jul-24 03:06:40 - Epoch 63 completed. Images saved.
+10-Jul-24 03:06:40 - Epoch [64/100] Batch 0/782 Loss D: 0.0526, loss G: 8.8069
+10-Jul-24 03:06:51 - Epoch [64/100] Batch 100/782 Loss D: 0.0316, loss G: 8.8342
+10-Jul-24 03:07:01 - Epoch [64/100] Batch 200/782 Loss D: 0.0550, loss G: 7.8932
+10-Jul-24 03:07:11 - Epoch [64/100] Batch 300/782 Loss D: 0.0242, loss G: 8.4663
+10-Jul-24 03:07:22 - Epoch [64/100] Batch 400/782 Loss D: 0.0327, loss G: 8.9008
+10-Jul-24 03:07:33 - Epoch [64/100] Batch 500/782 Loss D: 0.0498, loss G: 8.6761
+10-Jul-24 03:07:43 - Epoch [64/100] Batch 600/782 Loss D: 0.0755, loss G: 6.5736
+10-Jul-24 03:07:54 - Epoch [64/100] Batch 700/782 Loss D: 0.0546, loss G: 7.1295
+10-Jul-24 03:08:03 - Epoch 64 completed. Images saved.
+10-Jul-24 03:08:04 - Epoch [65/100] Batch 0/782 Loss D: 0.0641, loss G: 11.1926
+10-Jul-24 03:08:13 - Epoch [65/100] Batch 100/782 Loss D: 0.1382, loss G: 6.9087
+10-Jul-24 03:08:23 - Epoch [65/100] Batch 200/782 Loss D: 0.0569, loss G: 7.6681
+10-Jul-24 03:08:33 - Epoch [65/100] Batch 300/782 Loss D: 0.0351, loss G: 11.2938
+10-Jul-24 03:08:44 - Epoch [65/100] Batch 400/782 Loss D: 0.0305, loss G: 9.5794
+10-Jul-24 03:08:54 - Epoch [65/100] Batch 500/782 Loss D: 0.0416, loss G: 8.7426
+10-Jul-24 03:09:04 - Epoch [65/100] Batch 600/782 Loss D: 0.0277, loss G: 10.4945
+10-Jul-24 03:09:14 - Epoch [65/100] Batch 700/782 Loss D: 0.0406, loss G: 8.5139
+10-Jul-24 03:09:23 - Epoch 65 completed. Images saved.
+10-Jul-24 03:09:24 - Epoch [66/100] Batch 0/782 Loss D: 0.0885, loss G: 6.4490
+10-Jul-24 03:09:33 - Epoch [66/100] Batch 100/782 Loss D: 0.0179, loss G: 9.0990
+10-Jul-24 03:09:43 - Epoch [66/100] Batch 200/782 Loss D: 0.0520, loss G: 8.1652
+10-Jul-24 03:09:53 - Epoch [66/100] Batch 300/782 Loss D: 0.0409, loss G: 8.6611
+10-Jul-24 03:10:04 - Epoch [66/100] Batch 400/782 Loss D: 0.2489, loss G: 3.9268
+10-Jul-24 03:10:14 - Epoch [66/100] Batch 500/782 Loss D: 0.0267, loss G: 8.8592
+10-Jul-24 03:10:24 - Epoch [66/100] Batch 600/782 Loss D: 0.0400, loss G: 8.2448
+10-Jul-24 03:10:33 - Epoch [66/100] Batch 700/782 Loss D: 0.0273, loss G: 8.1300
+10-Jul-24 03:10:42 - Epoch 66 completed. Images saved.
+10-Jul-24 03:10:43 - Epoch [67/100] Batch 0/782 Loss D: 0.0290, loss G: 9.2993
+10-Jul-24 03:10:52 - Epoch [67/100] Batch 100/782 Loss D: 0.0618, loss G: 8.8879
+10-Jul-24 03:11:02 - Epoch [67/100] Batch 200/782 Loss D: 0.0109, loss G: 9.4652
+10-Jul-24 03:11:12 - Epoch [67/100] Batch 300/782 Loss D: 0.0341, loss G: 7.9614
+10-Jul-24 03:11:22 - Epoch [67/100] Batch 400/782 Loss D: 0.0611, loss G: 7.1967
+10-Jul-24 03:11:32 - Epoch [67/100] Batch 500/782 Loss D: 0.0275, loss G: 7.5665
+10-Jul-24 03:11:43 - Epoch [67/100] Batch 600/782 Loss D: 0.0308, loss G: 9.1878
+10-Jul-24 03:11:53 - Epoch [67/100] Batch 700/782 Loss D: 0.0577, loss G: 10.0967
+10-Jul-24 03:12:01 - Epoch 67 completed. Images saved.
+10-Jul-24 03:12:02 - Epoch [68/100] Batch 0/782 Loss D: 0.0464, loss G: 7.6938
+10-Jul-24 03:12:11 - Epoch [68/100] Batch 100/782 Loss D: 0.0410, loss G: 7.6434
+10-Jul-24 03:12:21 - Epoch [68/100] Batch 200/782 Loss D: 0.0434, loss G: 9.1095
+10-Jul-24 03:12:31 - Epoch [68/100] Batch 300/782 Loss D: 0.0345, loss G: 9.4233
+10-Jul-24 03:12:41 - Epoch [68/100] Batch 400/782 Loss D: 0.0594, loss G: 7.3685
+10-Jul-24 03:12:51 - Epoch [68/100] Batch 500/782 Loss D: 0.0344, loss G: 8.5235
+10-Jul-24 03:13:01 - Epoch [68/100] Batch 600/782 Loss D: 0.0911, loss G: 4.7467
+10-Jul-24 03:13:11 - Epoch [68/100] Batch 700/782 Loss D: 0.0594, loss G: 9.9066
+10-Jul-24 03:13:20 - Epoch 68 completed. Images saved.
+10-Jul-24 03:13:20 - Epoch [69/100] Batch 0/782 Loss D: 0.0684, loss G: 6.0691
+10-Jul-24 03:13:30 - Epoch [69/100] Batch 100/782 Loss D: 0.0262, loss G: 7.9752
+10-Jul-24 03:13:40 - Epoch [69/100] Batch 200/782 Loss D: 0.0372, loss G: 8.9786
+10-Jul-24 03:13:50 - Epoch [69/100] Batch 300/782 Loss D: 0.0563, loss G: 7.4345
+10-Jul-24 03:13:59 - Epoch [69/100] Batch 400/782 Loss D: 0.0312, loss G: 8.8710
+10-Jul-24 03:14:09 - Epoch [69/100] Batch 500/782 Loss D: 0.0482, loss G: 8.5024
+10-Jul-24 03:14:19 - Epoch [69/100] Batch 600/782 Loss D: 0.0466, loss G: 6.6186
+10-Jul-24 03:14:29 - Epoch [69/100] Batch 700/782 Loss D: 0.0316, loss G: 6.4664
+10-Jul-24 03:14:38 - Epoch 69 completed. Images saved.
+10-Jul-24 03:14:38 - Epoch [70/100] Batch 0/782 Loss D: 0.0222, loss G: 9.4808
+10-Jul-24 03:14:48 - Epoch [70/100] Batch 100/782 Loss D: 0.0204, loss G: 10.3572
+10-Jul-24 03:14:58 - Epoch [70/100] Batch 200/782 Loss D: 0.0474, loss G: 10.0702
+10-Jul-24 03:15:08 - Epoch [70/100] Batch 300/782 Loss D: 0.0161, loss G: 8.1273
+10-Jul-24 03:15:18 - Epoch [70/100] Batch 400/782 Loss D: 0.1162, loss G: 9.1066
+10-Jul-24 03:15:28 - Epoch [70/100] Batch 500/782 Loss D: 0.0291, loss G: 10.3716
+10-Jul-24 03:15:38 - Epoch [70/100] Batch 600/782 Loss D: 0.0221, loss G: 9.3995
+10-Jul-24 03:15:48 - Epoch [70/100] Batch 700/782 Loss D: 0.0631, loss G: 7.8101
+10-Jul-24 03:15:57 - Epoch 70 completed. Images saved.
+10-Jul-24 03:15:57 - Epoch [71/100] Batch 0/782 Loss D: 0.0436, loss G: 9.2896
+10-Jul-24 03:16:07 - Epoch [71/100] Batch 100/782 Loss D: 0.0323, loss G: 8.6945
+10-Jul-24 03:16:17 - Epoch [71/100] Batch 200/782 Loss D: 0.1364, loss G: 9.2695
+10-Jul-24 03:16:27 - Epoch [71/100] Batch 300/782 Loss D: 0.0113, loss G: 9.9629
+10-Jul-24 03:16:37 - Epoch [71/100] Batch 400/782 Loss D: 0.1384, loss G: 9.2390
+10-Jul-24 03:16:46 - Epoch [71/100] Batch 500/782 Loss D: 0.0122, loss G: 10.5988
+10-Jul-24 03:16:56 - Epoch [71/100] Batch 600/782 Loss D: 0.0311, loss G: 10.2182
+10-Jul-24 03:17:07 - Epoch [71/100] Batch 700/782 Loss D: 0.1672, loss G: 4.9156
+10-Jul-24 03:17:15 - Epoch 71 completed. Images saved.
+10-Jul-24 03:17:16 - Epoch [72/100] Batch 0/782 Loss D: 0.0664, loss G: 7.2512
+10-Jul-24 03:17:26 - Epoch [72/100] Batch 100/782 Loss D: 0.0384, loss G: 7.9319
+10-Jul-24 03:17:35 - Epoch [72/100] Batch 200/782 Loss D: 0.1464, loss G: 8.0348
+10-Jul-24 03:17:45 - Epoch [72/100] Batch 300/782 Loss D: 0.0144, loss G: 10.5146
+10-Jul-24 03:17:55 - Epoch [72/100] Batch 400/782 Loss D: 0.0371, loss G: 7.4388
+10-Jul-24 03:18:05 - Epoch [72/100] Batch 500/782 Loss D: 0.0206, loss G: 10.0688
+10-Jul-24 03:18:16 - Epoch [72/100] Batch 600/782 Loss D: 0.0587, loss G: 5.3169
+10-Jul-24 03:18:26 - Epoch [72/100] Batch 700/782 Loss D: 0.0698, loss G: 7.7208
+10-Jul-24 03:18:34 - Epoch 72 completed. Images saved.
+10-Jul-24 03:18:35 - Epoch [73/100] Batch 0/782 Loss D: 0.0629, loss G: 6.8933
+10-Jul-24 03:18:45 - Epoch [73/100] Batch 100/782 Loss D: 0.0240, loss G: 9.9773
+10-Jul-24 03:18:54 - Epoch [73/100] Batch 200/782 Loss D: 0.0303, loss G: 7.8041
+10-Jul-24 03:19:04 - Epoch [73/100] Batch 300/782 Loss D: 0.0523, loss G: 8.1363
+10-Jul-24 03:19:14 - Epoch [73/100] Batch 400/782 Loss D: 0.0181, loss G: 8.4029
+10-Jul-24 03:19:24 - Epoch [73/100] Batch 500/782 Loss D: 0.0226, loss G: 9.0832
+10-Jul-24 03:19:34 - Epoch [73/100] Batch 600/782 Loss D: 0.2677, loss G: 6.4990
+10-Jul-24 03:19:44 - Epoch [73/100] Batch 700/782 Loss D: 0.0352, loss G: 9.3703
+10-Jul-24 03:19:53 - Epoch 73 completed. Images saved.
+10-Jul-24 03:19:53 - Epoch [74/100] Batch 0/782 Loss D: 0.0387, loss G: 8.2990
+10-Jul-24 03:20:03 - Epoch [74/100] Batch 100/782 Loss D: 0.0109, loss G: 8.4415
+10-Jul-24 03:20:13 - Epoch [74/100] Batch 200/782 Loss D: 0.0215, loss G: 9.3054
+10-Jul-24 03:20:23 - Epoch [74/100] Batch 300/782 Loss D: 0.0268, loss G: 9.8116
+10-Jul-24 03:20:33 - Epoch [74/100] Batch 400/782 Loss D: 0.0392, loss G: 10.0187
+10-Jul-24 03:20:43 - Epoch [74/100] Batch 500/782 Loss D: 0.0574, loss G: 10.2909
+10-Jul-24 03:20:53 - Epoch [74/100] Batch 600/782 Loss D: 0.0217, loss G: 9.4354
+10-Jul-24 03:21:03 - Epoch [74/100] Batch 700/782 Loss D: 0.0390, loss G: 10.5928
+10-Jul-24 03:21:12 - Epoch 74 completed. Images saved.
+10-Jul-24 03:21:13 - Epoch [75/100] Batch 0/782 Loss D: 0.0193, loss G: 8.2064
+10-Jul-24 03:21:22 - Epoch [75/100] Batch 100/782 Loss D: 0.0382, loss G: 8.9240
+10-Jul-24 03:21:32 - Epoch [75/100] Batch 200/782 Loss D: 0.0269, loss G: 8.8108
+10-Jul-24 03:21:42 - Epoch [75/100] Batch 300/782 Loss D: 0.0194, loss G: 8.7386
+10-Jul-24 03:21:52 - Epoch [75/100] Batch 400/782 Loss D: 0.0145, loss G: 9.6359
+10-Jul-24 03:22:02 - Epoch [75/100] Batch 500/782 Loss D: 0.0545, loss G: 8.7146
+10-Jul-24 03:22:13 - Epoch [75/100] Batch 600/782 Loss D: 0.1062, loss G: 9.3959
+10-Jul-24 03:22:23 - Epoch [75/100] Batch 700/782 Loss D: 0.3245, loss G: 7.0466
+10-Jul-24 03:22:31 - Epoch 75 completed. Images saved.
+10-Jul-24 03:22:32 - Epoch [76/100] Batch 0/782 Loss D: 0.1116, loss G: 7.7710
+10-Jul-24 03:22:42 - Epoch [76/100] Batch 100/782 Loss D: 0.0219, loss G: 9.5330
+10-Jul-24 03:22:52 - Epoch [76/100] Batch 200/782 Loss D: 0.0203, loss G: 9.1745
+10-Jul-24 03:23:01 - Epoch [76/100] Batch 300/782 Loss D: 0.2606, loss G: 7.2324
+10-Jul-24 03:23:11 - Epoch [76/100] Batch 400/782 Loss D: 0.0458, loss G: 9.7827
+10-Jul-24 03:23:22 - Epoch [76/100] Batch 500/782 Loss D: 0.0140, loss G: 10.5519
+10-Jul-24 03:23:32 - Epoch [76/100] Batch 600/782 Loss D: 0.0214, loss G: 8.5754
+10-Jul-24 03:23:42 - Epoch [76/100] Batch 700/782 Loss D: 0.0320, loss G: 11.1871
+10-Jul-24 03:23:50 - Epoch 76 completed. Images saved.
+10-Jul-24 03:23:51 - Epoch [77/100] Batch 0/782 Loss D: 0.0445, loss G: 9.6949
+10-Jul-24 03:24:01 - Epoch [77/100] Batch 100/782 Loss D: 0.0367, loss G: 7.7766
+10-Jul-24 03:24:10 - Epoch [77/100] Batch 200/782 Loss D: 0.0206, loss G: 9.2616
+10-Jul-24 03:24:21 - Epoch [77/100] Batch 300/782 Loss D: 0.0232, loss G: 9.3106
+10-Jul-24 03:24:31 - Epoch [77/100] Batch 400/782 Loss D: 0.0648, loss G: 9.2655
+10-Jul-24 03:24:41 - Epoch [77/100] Batch 500/782 Loss D: 0.0200, loss G: 11.2083
+10-Jul-24 03:24:51 - Epoch [77/100] Batch 600/782 Loss D: 0.0498, loss G: 11.9565
+10-Jul-24 03:25:01 - Epoch [77/100] Batch 700/782 Loss D: 0.0164, loss G: 9.3781
+10-Jul-24 03:25:10 - Epoch 77 completed. Images saved.
+10-Jul-24 03:25:11 - Epoch [78/100] Batch 0/782 Loss D: 0.0545, loss G: 11.0652
+10-Jul-24 03:25:21 - Epoch [78/100] Batch 100/782 Loss D: 0.0289, loss G: 10.3523
+10-Jul-24 03:25:31 - Epoch [78/100] Batch 200/782 Loss D: 0.0311, loss G: 9.9050
+10-Jul-24 03:25:40 - Epoch [78/100] Batch 300/782 Loss D: 0.0505, loss G: 8.3223
+10-Jul-24 03:25:50 - Epoch [78/100] Batch 400/782 Loss D: 0.1241, loss G: 9.3840
+10-Jul-24 03:26:00 - Epoch [78/100] Batch 500/782 Loss D: 0.0444, loss G: 9.0088
+10-Jul-24 03:26:11 - Epoch [78/100] Batch 600/782 Loss D: 0.0586, loss G: 9.1416
+10-Jul-24 03:26:22 - Epoch [78/100] Batch 700/782 Loss D: 0.0234, loss G: 10.1076
+10-Jul-24 03:26:30 - Epoch 78 completed. Images saved.
+10-Jul-24 03:26:31 - Epoch [79/100] Batch 0/782 Loss D: 0.0188, loss G: 11.0880
+10-Jul-24 03:26:41 - Epoch [79/100] Batch 100/782 Loss D: 0.0576, loss G: 8.3199
+10-Jul-24 03:26:51 - Epoch [79/100] Batch 200/782 Loss D: 0.0373, loss G: 10.4447
+10-Jul-24 03:27:01 - Epoch [79/100] Batch 300/782 Loss D: 0.0402, loss G: 8.5415
+10-Jul-24 03:27:11 - Epoch [79/100] Batch 400/782 Loss D: 0.0307, loss G: 10.7584
+10-Jul-24 03:27:21 - Epoch [79/100] Batch 500/782 Loss D: 0.0324, loss G: 9.3078
+10-Jul-24 03:27:32 - Epoch [79/100] Batch 600/782 Loss D: 0.0326, loss G: 8.6606
+10-Jul-24 03:27:42 - Epoch [79/100] Batch 700/782 Loss D: 0.0291, loss G: 9.1765
+10-Jul-24 03:27:51 - Epoch 79 completed. Images saved.
+10-Jul-24 03:27:52 - Epoch [80/100] Batch 0/782 Loss D: 0.0791, loss G: 8.6596
+10-Jul-24 03:28:02 - Epoch [80/100] Batch 100/782 Loss D: 0.0362, loss G: 11.2562
+10-Jul-24 03:28:12 - Epoch [80/100] Batch 200/782 Loss D: 0.0297, loss G: 10.4436
+10-Jul-24 03:28:22 - Epoch [80/100] Batch 300/782 Loss D: 0.0217, loss G: 9.7663
+10-Jul-24 03:28:32 - Epoch [80/100] Batch 400/782 Loss D: 0.0732, loss G: 7.0954
+10-Jul-24 03:28:42 - Epoch [80/100] Batch 500/782 Loss D: 0.0959, loss G: 10.5632
+10-Jul-24 03:28:53 - Epoch [80/100] Batch 600/782 Loss D: 0.0224, loss G: 9.3855
+10-Jul-24 03:29:03 - Epoch [80/100] Batch 700/782 Loss D: 0.0257, loss G: 13.0526
+10-Jul-24 03:29:11 - Epoch 80 completed. Images saved.
+10-Jul-24 03:29:12 - Epoch [81/100] Batch 0/782 Loss D: 0.0129, loss G: 10.6883
+10-Jul-24 03:29:22 - Epoch [81/100] Batch 100/782 Loss D: 0.0308, loss G: 10.2536
+10-Jul-24 03:29:32 - Epoch [81/100] Batch 200/782 Loss D: 0.0273, loss G: 11.1356
+10-Jul-24 03:29:42 - Epoch [81/100] Batch 300/782 Loss D: 0.0319, loss G: 8.5948
+10-Jul-24 03:29:52 - Epoch [81/100] Batch 400/782 Loss D: 0.0204, loss G: 9.9275
+10-Jul-24 03:30:03 - Epoch [81/100] Batch 500/782 Loss D: 0.0611, loss G: 9.6438
+10-Jul-24 03:30:13 - Epoch [81/100] Batch 600/782 Loss D: 0.1142, loss G: 6.8500
+10-Jul-24 03:30:24 - Epoch [81/100] Batch 700/782 Loss D: 0.0412, loss G: 8.5277
+10-Jul-24 03:30:33 - Epoch 81 completed. Images saved.
+10-Jul-24 03:30:33 - Epoch [82/100] Batch 0/782 Loss D: 0.0642, loss G: 7.3868
+10-Jul-24 03:30:43 - Epoch [82/100] Batch 100/782 Loss D: 0.0494, loss G: 7.7468
+10-Jul-24 03:30:53 - Epoch [82/100] Batch 200/782 Loss D: 0.1050, loss G: 9.0820
+10-Jul-24 03:31:03 - Epoch [82/100] Batch 300/782 Loss D: 0.0334, loss G: 9.2457
+10-Jul-24 03:31:13 - Epoch [82/100] Batch 400/782 Loss D: 0.0244, loss G: 9.2971
+10-Jul-24 03:31:23 - Epoch [82/100] Batch 500/782 Loss D: 0.0131, loss G: 9.9062
+10-Jul-24 03:31:33 - Epoch [82/100] Batch 600/782 Loss D: 0.0253, loss G: 10.0766
+10-Jul-24 03:31:44 - Epoch [82/100] Batch 700/782 Loss D: 0.0341, loss G: 10.3971
+10-Jul-24 03:31:52 - Epoch 82 completed. Images saved.
+10-Jul-24 03:31:53 - Epoch [83/100] Batch 0/782 Loss D: 0.0133, loss G: 10.3481
+10-Jul-24 03:32:03 - Epoch [83/100] Batch 100/782 Loss D: 0.0665, loss G: 11.3219
+10-Jul-24 03:32:12 - Epoch [83/100] Batch 200/782 Loss D: 0.0143, loss G: 11.0430
+10-Jul-24 03:32:22 - Epoch [83/100] Batch 300/782 Loss D: 0.2365, loss G: 12.5399
+10-Jul-24 03:32:32 - Epoch [83/100] Batch 400/782 Loss D: 0.0487, loss G: 13.1716
+10-Jul-24 03:32:42 - Epoch [83/100] Batch 500/782 Loss D: 0.0176, loss G: 9.4128
+10-Jul-24 03:32:52 - Epoch [83/100] Batch 600/782 Loss D: 0.0057, loss G: 12.0795
+10-Jul-24 03:33:03 - Epoch [83/100] Batch 700/782 Loss D: 0.0378, loss G: 9.4032
+10-Jul-24 03:33:11 - Epoch 83 completed. Images saved.
+10-Jul-24 03:33:12 - Epoch [84/100] Batch 0/782 Loss D: 0.4945, loss G: 4.6043
+10-Jul-24 03:33:22 - Epoch [84/100] Batch 100/782 Loss D: 0.0086, loss G: 11.5607
+10-Jul-24 03:33:32 - Epoch [84/100] Batch 200/782 Loss D: 0.0161, loss G: 10.1429
+10-Jul-24 03:33:41 - Epoch [84/100] Batch 300/782 Loss D: 0.0163, loss G: 9.9597
+10-Jul-24 03:33:52 - Epoch [84/100] Batch 400/782 Loss D: 0.0378, loss G: 9.3722
+10-Jul-24 03:34:02 - Epoch [84/100] Batch 500/782 Loss D: 0.0193, loss G: 8.1196
+10-Jul-24 03:34:12 - Epoch [84/100] Batch 600/782 Loss D: 0.0251, loss G: 8.3312
+10-Jul-24 03:34:22 - Epoch [84/100] Batch 700/782 Loss D: 0.0545, loss G: 8.5242
+10-Jul-24 03:34:31 - Epoch 84 completed. Images saved.
+10-Jul-24 03:34:32 - Epoch [85/100] Batch 0/782 Loss D: 0.0387, loss G: 8.9932
+10-Jul-24 03:34:41 - Epoch [85/100] Batch 100/782 Loss D: 0.0324, loss G: 7.9873
+10-Jul-24 03:34:51 - Epoch [85/100] Batch 200/782 Loss D: 0.0082, loss G: 11.8639
+10-Jul-24 03:35:01 - Epoch [85/100] Batch 300/782 Loss D: 0.3622, loss G: 4.4736
+10-Jul-24 03:35:11 - Epoch [85/100] Batch 400/782 Loss D: 0.0164, loss G: 10.0051
+10-Jul-24 03:35:21 - Epoch [85/100] Batch 500/782 Loss D: 0.0181, loss G: 11.3315
+10-Jul-24 03:35:31 - Epoch [85/100] Batch 600/782 Loss D: 0.0312, loss G: 9.6551
+10-Jul-24 03:35:41 - Epoch [85/100] Batch 700/782 Loss D: 0.0231, loss G: 9.1084
+10-Jul-24 03:35:50 - Epoch 85 completed. Images saved.
+10-Jul-24 03:35:51 - Epoch [86/100] Batch 0/782 Loss D: 0.0576, loss G: 7.6557
+10-Jul-24 03:36:01 - Epoch [86/100] Batch 100/782 Loss D: 0.0072, loss G: 12.3318
+10-Jul-24 03:36:10 - Epoch [86/100] Batch 200/782 Loss D: 0.0201, loss G: 9.8868
+10-Jul-24 03:36:20 - Epoch [86/100] Batch 300/782 Loss D: 0.2287, loss G: 14.7847
+10-Jul-24 03:36:31 - Epoch [86/100] Batch 400/782 Loss D: 0.0169, loss G: 11.4901
+10-Jul-24 03:36:41 - Epoch [86/100] Batch 500/782 Loss D: 0.0746, loss G: 8.6184
+10-Jul-24 03:36:52 - Epoch [86/100] Batch 600/782 Loss D: 0.0068, loss G: 11.4470
+10-Jul-24 03:37:02 - Epoch [86/100] Batch 700/782 Loss D: 0.0252, loss G: 10.5030
+10-Jul-24 03:37:10 - Epoch 86 completed. Images saved.
+10-Jul-24 03:37:11 - Epoch [87/100] Batch 0/782 Loss D: 0.0339, loss G: 7.9033
+10-Jul-24 03:37:21 - Epoch [87/100] Batch 100/782 Loss D: 0.0538, loss G: 11.2025
+10-Jul-24 03:37:30 - Epoch [87/100] Batch 200/782 Loss D: 0.0424, loss G: 10.1643
+10-Jul-24 03:37:40 - Epoch [87/100] Batch 300/782 Loss D: 0.0322, loss G: 7.9215
+10-Jul-24 03:37:50 - Epoch [87/100] Batch 400/782 Loss D: 0.0211, loss G: 10.1688
+10-Jul-24 03:38:00 - Epoch [87/100] Batch 500/782 Loss D: 0.0433, loss G: 9.1457
+10-Jul-24 03:38:11 - Epoch [87/100] Batch 600/782 Loss D: 0.0223, loss G: 10.7433
+10-Jul-24 03:38:21 - Epoch [87/100] Batch 700/782 Loss D: 0.0221, loss G: 11.1658
+10-Jul-24 03:38:30 - Epoch 87 completed. Images saved.
+10-Jul-24 03:38:30 - Epoch [88/100] Batch 0/782 Loss D: 0.3107, loss G: 13.4304
+10-Jul-24 03:38:42 - Epoch [88/100] Batch 100/782 Loss D: 0.0268, loss G: 8.4304
+10-Jul-24 03:39:01 - Epoch [88/100] Batch 200/782 Loss D: 0.0209, loss G: 9.1332
+10-Jul-24 03:39:11 - Epoch [88/100] Batch 300/782 Loss D: 0.0136, loss G: 9.5577
+10-Jul-24 03:39:22 - Epoch [88/100] Batch 400/782 Loss D: 0.0266, loss G: 9.5439
+10-Jul-24 03:39:32 - Epoch [88/100] Batch 500/782 Loss D: 0.0266, loss G: 10.0256
+10-Jul-24 03:39:42 - Epoch [88/100] Batch 600/782 Loss D: 0.0922, loss G: 9.7321
+10-Jul-24 03:39:52 - Epoch [88/100] Batch 700/782 Loss D: 0.0515, loss G: 11.3402
+10-Jul-24 03:40:01 - Epoch 88 completed. Images saved.
+10-Jul-24 03:40:02 - Epoch [89/100] Batch 0/782 Loss D: 0.0862, loss G: 10.8762
+10-Jul-24 03:40:12 - Epoch [89/100] Batch 100/782 Loss D: 0.0304, loss G: 8.4378
+10-Jul-24 03:40:22 - Epoch [89/100] Batch 200/782 Loss D: 0.0334, loss G: 10.7176
+10-Jul-24 03:40:32 - Epoch [89/100] Batch 300/782 Loss D: 0.1034, loss G: 8.2054
+10-Jul-24 03:40:41 - Epoch [89/100] Batch 400/782 Loss D: 0.0651, loss G: 6.0098
+10-Jul-24 03:40:51 - Epoch [89/100] Batch 500/782 Loss D: 0.0108, loss G: 9.6493
+10-Jul-24 03:41:01 - Epoch [89/100] Batch 600/782 Loss D: 0.0342, loss G: 10.1259
+10-Jul-24 03:41:12 - Epoch [89/100] Batch 700/782 Loss D: 0.0166, loss G: 9.6954
+10-Jul-24 03:41:20 - Epoch 89 completed. Images saved.
+10-Jul-24 03:41:21 - Epoch [90/100] Batch 0/782 Loss D: 0.0658, loss G: 6.5051
+10-Jul-24 03:41:31 - Epoch [90/100] Batch 100/782 Loss D: 0.0299, loss G: 10.5743
+10-Jul-24 03:41:41 - Epoch [90/100] Batch 200/782 Loss D: 0.0438, loss G: 11.1568
+10-Jul-24 03:41:51 - Epoch [90/100] Batch 300/782 Loss D: 0.0179, loss G: 10.9076
+10-Jul-24 03:42:01 - Epoch [90/100] Batch 400/782 Loss D: 0.0087, loss G: 10.3238
+10-Jul-24 03:42:11 - Epoch [90/100] Batch 500/782 Loss D: 0.0148, loss G: 8.5449
+10-Jul-24 03:42:21 - Epoch [90/100] Batch 600/782 Loss D: 0.0056, loss G: 10.6635
+10-Jul-24 03:42:32 - Epoch [90/100] Batch 700/782 Loss D: 0.0235, loss G: 7.9723
+10-Jul-24 03:42:40 - Epoch 90 completed. Images saved.
+10-Jul-24 03:42:41 - Epoch [91/100] Batch 0/782 Loss D: 0.0445, loss G: 9.3103
+10-Jul-24 03:42:50 - Epoch [91/100] Batch 100/782 Loss D: 0.0208, loss G: 9.4969
+10-Jul-24 03:43:00 - Epoch [91/100] Batch 200/782 Loss D: 0.0474, loss G: 8.6968
+10-Jul-24 03:43:10 - Epoch [91/100] Batch 300/782 Loss D: 0.0621, loss G: 8.7423
+10-Jul-24 03:43:20 - Epoch [91/100] Batch 400/782 Loss D: 0.0120, loss G: 12.4766
+10-Jul-24 03:43:29 - Epoch [91/100] Batch 500/782 Loss D: 0.0845, loss G: 7.2696
+10-Jul-24 03:43:39 - Epoch [91/100] Batch 600/782 Loss D: 0.0173, loss G: 9.8775
+10-Jul-24 03:43:49 - Epoch [91/100] Batch 700/782 Loss D: 0.0462, loss G: 9.0473
+10-Jul-24 03:43:57 - Epoch 91 completed. Images saved.
+10-Jul-24 03:43:58 - Epoch [92/100] Batch 0/782 Loss D: 0.0198, loss G: 10.3498
+10-Jul-24 03:44:08 - Epoch [92/100] Batch 100/782 Loss D: 0.0179, loss G: 10.1246
+10-Jul-24 03:44:17 - Epoch [92/100] Batch 200/782 Loss D: 0.0171, loss G: 10.1868
+10-Jul-24 03:44:27 - Epoch [92/100] Batch 300/782 Loss D: 0.0179, loss G: 10.0429
+10-Jul-24 03:44:37 - Epoch [92/100] Batch 400/782 Loss D: 0.0291, loss G: 9.7707
+10-Jul-24 03:44:47 - Epoch [92/100] Batch 500/782 Loss D: 0.0617, loss G: 6.4914
+10-Jul-24 03:44:58 - Epoch [92/100] Batch 600/782 Loss D: 0.0108, loss G: 10.7576
+10-Jul-24 03:45:08 - Epoch [92/100] Batch 700/782 Loss D: 0.0270, loss G: 10.7596
+10-Jul-24 03:45:16 - Epoch 92 completed. Images saved.
+10-Jul-24 03:45:17 - Epoch [93/100] Batch 0/782 Loss D: 0.0060, loss G: 11.0905
+10-Jul-24 03:45:27 - Epoch [93/100] Batch 100/782 Loss D: 0.1670, loss G: 5.3867
+10-Jul-24 03:45:36 - Epoch [93/100] Batch 200/782 Loss D: 0.0928, loss G: 5.2927
+10-Jul-24 03:45:46 - Epoch [93/100] Batch 300/782 Loss D: 0.0321, loss G: 8.8180
+10-Jul-24 03:45:56 - Epoch [93/100] Batch 400/782 Loss D: 0.0281, loss G: 9.4437
+10-Jul-24 03:46:06 - Epoch [93/100] Batch 500/782 Loss D: 0.0076, loss G: 11.5763
+10-Jul-24 03:46:16 - Epoch [93/100] Batch 600/782 Loss D: 0.0446, loss G: 10.0475
+10-Jul-24 03:46:26 - Epoch [93/100] Batch 700/782 Loss D: 0.1706, loss G: 8.7292
+10-Jul-24 03:46:34 - Epoch 93 completed. Images saved.
+10-Jul-24 03:46:35 - Epoch [94/100] Batch 0/782 Loss D: 0.0186, loss G: 10.2467
+10-Jul-24 03:46:44 - Epoch [94/100] Batch 100/782 Loss D: 0.0350, loss G: 9.2170
+10-Jul-24 03:46:54 - Epoch [94/100] Batch 200/782 Loss D: 0.0146, loss G: 12.8432
+10-Jul-24 03:47:04 - Epoch [94/100] Batch 300/782 Loss D: 0.0205, loss G: 10.0423
+10-Jul-24 03:47:14 - Epoch [94/100] Batch 400/782 Loss D: 0.0159, loss G: 9.1927
+10-Jul-24 03:47:23 - Epoch [94/100] Batch 500/782 Loss D: 0.0342, loss G: 9.6706
+10-Jul-24 03:47:33 - Epoch [94/100] Batch 600/782 Loss D: 0.0407, loss G: 7.9523
+10-Jul-24 03:47:44 - Epoch [94/100] Batch 700/782 Loss D: 0.0167, loss G: 9.0114
+10-Jul-24 03:47:52 - Epoch 94 completed. Images saved.
+10-Jul-24 03:47:53 - Epoch [95/100] Batch 0/782 Loss D: 0.0255, loss G: 11.6697
+10-Jul-24 03:48:03 - Epoch [95/100] Batch 100/782 Loss D: 0.0321, loss G: 11.7967
+10-Jul-24 03:48:12 - Epoch [95/100] Batch 200/782 Loss D: 0.0088, loss G: 11.1574
+10-Jul-24 03:48:22 - Epoch [95/100] Batch 300/782 Loss D: 0.0467, loss G: 10.5856
+10-Jul-24 03:48:33 - Epoch [95/100] Batch 400/782 Loss D: 0.0123, loss G: 10.4828
+10-Jul-24 03:48:43 - Epoch [95/100] Batch 500/782 Loss D: 0.0232, loss G: 9.3485
+10-Jul-24 03:48:52 - Epoch [95/100] Batch 600/782 Loss D: 0.1978, loss G: 9.7736
+10-Jul-24 03:49:02 - Epoch [95/100] Batch 700/782 Loss D: 0.0036, loss G: 11.7126
+10-Jul-24 03:49:11 - Epoch 95 completed. Images saved.
+10-Jul-24 03:49:11 - Epoch [96/100] Batch 0/782 Loss D: 0.1092, loss G: 13.6645
+10-Jul-24 03:49:21 - Epoch [96/100] Batch 100/782 Loss D: 0.0174, loss G: 9.6478
+10-Jul-24 03:49:31 - Epoch [96/100] Batch 200/782 Loss D: 0.0129, loss G: 10.9224
+10-Jul-24 03:49:41 - Epoch [96/100] Batch 300/782 Loss D: 0.0116, loss G: 12.4201
+10-Jul-24 03:49:51 - Epoch [96/100] Batch 400/782 Loss D: 0.0119, loss G: 12.1176
+10-Jul-24 03:50:01 - Epoch [96/100] Batch 500/782 Loss D: 0.0230, loss G: 10.9098
+10-Jul-24 03:50:11 - Epoch [96/100] Batch 600/782 Loss D: 0.0153, loss G: 11.1707
+10-Jul-24 03:50:22 - Epoch [96/100] Batch 700/782 Loss D: 0.0139, loss G: 9.9612
+10-Jul-24 03:50:30 - Epoch 96 completed. Images saved.
+10-Jul-24 03:50:31 - Epoch [97/100] Batch 0/782 Loss D: 0.0161, loss G: 10.5050
+10-Jul-24 03:50:41 - Epoch [97/100] Batch 100/782 Loss D: 0.0108, loss G: 9.4595
+10-Jul-24 03:50:51 - Epoch [97/100] Batch 200/782 Loss D: 0.0199, loss G: 10.2780
+10-Jul-24 03:51:01 - Epoch [97/100] Batch 300/782 Loss D: 0.0061, loss G: 10.2104
+10-Jul-24 03:51:10 - Epoch [97/100] Batch 400/782 Loss D: 0.0072, loss G: 10.2275
+10-Jul-24 03:51:20 - Epoch [97/100] Batch 500/782 Loss D: 0.0198, loss G: 9.1218
+10-Jul-24 03:51:30 - Epoch [97/100] Batch 600/782 Loss D: 0.0176, loss G: 10.6354
+10-Jul-24 03:51:40 - Epoch [97/100] Batch 700/782 Loss D: 0.0157, loss G: 10.3222
+10-Jul-24 03:51:49 - Epoch 97 completed. Images saved.
+10-Jul-24 03:51:50 - Epoch [98/100] Batch 0/782 Loss D: 0.0340, loss G: 10.6840
+10-Jul-24 03:51:59 - Epoch [98/100] Batch 100/782 Loss D: 0.0066, loss G: 10.7833
+10-Jul-24 03:52:09 - Epoch [98/100] Batch 200/782 Loss D: 0.0644, loss G: 5.6305
+10-Jul-24 03:52:19 - Epoch [98/100] Batch 300/782 Loss D: 0.0598, loss G: 7.9530
+10-Jul-24 03:52:29 - Epoch [98/100] Batch 400/782 Loss D: 0.0192, loss G: 11.2836
+10-Jul-24 03:52:39 - Epoch [98/100] Batch 500/782 Loss D: 0.0142, loss G: 13.0986
+10-Jul-24 03:52:49 - Epoch [98/100] Batch 600/782 Loss D: 0.0805, loss G: 8.4763
+10-Jul-24 03:52:59 - Epoch [98/100] Batch 700/782 Loss D: 0.0100, loss G: 10.9851
+10-Jul-24 03:53:08 - Epoch 98 completed. Images saved.
+10-Jul-24 03:53:09 - Epoch [99/100] Batch 0/782 Loss D: 0.0249, loss G: 9.8741
+10-Jul-24 03:53:18 - Epoch [99/100] Batch 100/782 Loss D: 0.0076, loss G: 11.2276
+10-Jul-24 03:53:28 - Epoch [99/100] Batch 200/782 Loss D: 0.0023, loss G: 11.4001
+10-Jul-24 03:53:37 - Epoch [99/100] Batch 300/782 Loss D: 0.0690, loss G: 15.9353
+10-Jul-24 03:53:47 - Epoch [99/100] Batch 400/782 Loss D: 0.0625, loss G: 12.8735
+10-Jul-24 03:53:57 - Epoch [99/100] Batch 500/782 Loss D: 0.1727, loss G: 10.9944
+10-Jul-24 03:54:07 - Epoch [99/100] Batch 600/782 Loss D: 0.0116, loss G: 11.2005
+10-Jul-24 03:54:17 - Epoch [99/100] Batch 700/782 Loss D: 0.0893, loss G: 9.3338
+10-Jul-24 03:54:25 - Epoch 99 completed. Images saved.
+10-Jul-24 03:54:26 - Epoch [100/100] Batch 0/782 Loss D: 0.0396, loss G: 9.8025
+10-Jul-24 03:54:36 - Epoch [100/100] Batch 100/782 Loss D: 0.0120, loss G: 10.7638
+10-Jul-24 03:54:45 - Epoch [100/100] Batch 200/782 Loss D: 0.0179, loss G: 12.4946
+10-Jul-24 03:54:55 - Epoch [100/100] Batch 300/782 Loss D: 0.0256, loss G: 11.0009
+10-Jul-24 03:55:04 - Epoch [100/100] Batch 400/782 Loss D: 0.0216, loss G: 8.1921
+10-Jul-24 03:55:14 - Epoch [100/100] Batch 500/782 Loss D: 0.0228, loss G: 9.5800
+10-Jul-24 03:55:24 - Epoch [100/100] Batch 600/782 Loss D: 0.0077, loss G: 10.7976
+10-Jul-24 03:55:34 - Epoch [100/100] Batch 700/782 Loss D: 0.0195, loss G: 12.2633
+10-Jul-24 03:55:43 - Epoch 100 completed. Images saved.

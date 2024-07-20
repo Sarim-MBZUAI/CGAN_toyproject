@@ -1,0 +1,12 @@
+Traceback (most recent call last):
+  File "train.py", line 43, in <module>
+    dataset = datasets.ImageFolder(
+  File "/fsx/homes/Sarim.Hashmi@mbzuai.ac.ae/.conda/envs/Gan/lib/python3.8/site-packages/torchvision/datasets/folder.py", line 309, in __init__
+    super().__init__(
+  File "/fsx/homes/Sarim.Hashmi@mbzuai.ac.ae/.conda/envs/Gan/lib/python3.8/site-packages/torchvision/datasets/folder.py", line 144, in __init__
+    classes, class_to_idx = self.find_classes(self.root)
+  File "/fsx/homes/Sarim.Hashmi@mbzuai.ac.ae/.conda/envs/Gan/lib/python3.8/site-packages/torchvision/datasets/folder.py", line 218, in find_classes
+    return find_classes(directory)
+  File "/fsx/homes/Sarim.Hashmi@mbzuai.ac.ae/.conda/envs/Gan/lib/python3.8/site-packages/torchvision/datasets/folder.py", line 42, in find_classes
+    raise FileNotFoundError(f"Couldn't find any class folder in {directory}.")
+FileNotFoundError: Couldn't find any class folder in /fsx/hyperpod-input-datasets/AROA6GBMFKRI2VWQAUGYI:Sarim.Hashmi@mbzuai.ac.ae/celeb_data/img_align_celeba.
